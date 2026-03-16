@@ -3,180 +3,181 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Replication Journal Federation | FORRT</title>
+    <title>Replication Journal Federation</title>
+    <!-- Import elegant serif (FORRT style) and clean sans-serif (grid style) -->
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
     <style>
         :root {
-            --primary-color: #2c3e50;
-            --secondary-color: #18bc9c;
-            --bg-color: #f9fbfd;
-            --text-color: #333;
+            /* Light Theme Variables */
+            --bg-primary: #ffffff;
+            --bg-secondary: #f4f5f5;
+            --text-primary: #1a1a1a;
+            --text-secondary: #4a4a4a;
+            --nav-bg: #333333;
+            --nav-text: #ffffff;
+            --border-color: #d1d5db;
+            --accent-color: #2b593f; /* Dark green from first image inspiration */
+            --card-bg: #ffffff;
         }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: var(--text-color);
-            background-color: var(--bg-color);
+
+        [data-theme="dark"] {
+            /* Dark Theme Variables */
+            --bg-primary: #121212;
+            --bg-secondary: #1e1e1e;
+            --text-primary: #e0e0e0;
+            --text-secondary: #a0a0a0;
+            --nav-bg: #000000;
+            --nav-text: #ffffff;
+            --border-color: #333333;
+            --accent-color: #4ade80;
+            --card-bg: #1e1e1e;
+        }
+
+        * {
+            box-sizing: border-box;
             margin: 0;
             padding: 0;
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
         }
-        header {
-            background-color: var(--primary-color);
-            color: white;
-            padding: 4rem 2rem;
-            text-align: center;
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
         }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
+
+        /* FORRT-style Dark Navigation */
+        nav {
+            background-color: var(--nav-bg);
+            color: var(--nav-text);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        header h2 {
-            font-weight: 300;
-            color: #bdc3c7;
-            margin-top: 0.5rem;
+
+        .nav-logo {
+            font-family: 'Merriweather', serif;
             font-size: 1.2rem;
+            letter-spacing: 1px;
         }
-        .tagline {
-            font-size: 1.5rem;
-            font-weight: bold;
-            color: var(--secondary-color);
-            margin-top: 1.5rem;
-        }
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-        section {
-            margin-bottom: 3rem;
-            background: white;
-            padding: 2rem;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-        }
-        h3 {
-            color: var(--primary-color);
-            border-bottom: 2px solid var(--secondary-color);
-            padding-bottom: 0.5rem;
-        }
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-top: 2rem;
-        }
-        .journal-card {
-            background: var(--bg-color);
-            padding: 1rem;
-            border-radius: 8px;
-            text-align: center;
-            border: 1px solid #e1e8ed;
-        }
-        .journal-card h4 {
-            margin-top: 0;
-            color: var(--primary-color);
-        }
-        video {
-            width: 100%;
+
+        /* Dark Mode Toggle Button */
+        #theme-toggle {
+            background: none;
+            border: 1px solid var(--nav-text);
+            color: var(--nav-text);
+            padding: 0.4rem 0.8rem;
             border-radius: 4px;
-            margin-bottom: 1rem;
-        }
-        ul {
-            padding-left: 1.5rem;
-        }
-        li {
-            margin-bottom: 0.5rem;
-        }
-        a {
-            color: var(--secondary-color);
-            text-decoration: none;
-            font-weight: bold;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            padding: 2rem;
-            background-color: var(--primary-color);
-            color: white;
+            cursor: pointer;
             font-size: 0.9rem;
+            font-family: 'Inter', sans-serif;
         }
-        footer a {
-            color: var(--secondary-color);
-        }
-    </style>
-</head>
-<body>
-
-    <header>
-        <h1>Replication Journal Federation</h1>
-        <h2>A proud part of FORRT's Replication Hub</h2>
-        <div class="tagline">
-            Free to publish. Free to read. Free from commercial publishers.
-        </div>
-    </header>
-
-    <div class="container">
         
-        <section id="about">
-            <h3>About the Federation</h3>
-            <p>Officially launching in <strong>March 2026</strong>, the Replication Journal Federation (RJF) is a network of Diamond Open Access and not-for-profit journals dedicated primarily to publishing replication research. The initiative was born out of the momentum generated by <a href="https://forrt.org/LoveReplicationsWeek/" target="_blank">Love Replications Week</a>.</p>
-            <p>Our goal is simple: <strong>Let replication journals support each other.</strong> By cross-promoting our platforms and working as a united front, we ensure that rigorous replication research remains in the hands of the academic community. This is the premier destination for researchers who want to publish and read replications without surrendering their work to commercial publishing monopolies.</p>
-        </section>
+        #theme-toggle:hover {
+            background-color: var(--nav-text);
+            color: var(--nav-bg);
+        }
 
-        <section id="journals">
-            <h3>Meet Our Journals</h3>
-            <p>Explore the independent, Diamond OA journals that make up the federation. Watch the introductory videos below to find the perfect home for your next replication study.</p>
-            
-            <div class="grid">
-                <!-- Journal Placeholder 1 -->
-                <div class="journal-card">
-                    <h4>[Journal Name 1]</h4>
-                    <video controls>
-                        <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/elenlefoll-2-3-2026.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                    <p>A brief description of the journal's focus and scope.</p>
-                </div>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
 
-                <!-- Journal Placeholder 2 -->
-                <div class="journal-card">
-                    <h4>[Journal Name 2]</h4>
-                    <video controls>
-                        <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/elenlefoll-2-3-2026.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                    <p>A brief description of the journal's focus and scope.</p>
-                </div>
+        /* Hero Section mimicking FORRT vertical split layout */
+        .hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 6rem 0;
+            border-bottom: 2px solid var(--border-color);
+        }
 
-                <!-- Journal Placeholder 3 -->
-                <div class="journal-card">
-                    <h4>[Journal Name 3]</h4>
-                    <video controls>
-                        <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/elenlefoll-2-3-2026.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                    <p>A brief description of the journal's focus and scope.</p>
-                </div>
-            </div>
-        </section>
+        .hero-left {
+            flex: 1;
+            text-align: right;
+            padding-right: 3rem;
+        }
 
-        <section id="activities">
-            <h3>Current Activities & Initiatives</h3>
-            <p>Beyond publishing, the RJF actively fosters a community of robust scientific practices through several ongoing activities:</p>
-            <ul>
-                <li><strong><a href="https://lukasroeseler.github.io/replicatethis/" target="_blank">ReplicateThis:</a></strong> A community registry for replication candidates. Find studies that need replicating, or suggest your own.</li>
-                <li><strong>Workshops:</strong> We host regular workshops focused on the methodology and execution of reproduction and replication studies.</li>
-                <li><strong>Editorial Support Network:</strong> Our journal editors meet 4 times a year to support each other with editorial, ethical, and conceptual questions, ensuring high standards across all federation journals.</li>
-            </ul>
-        </section>
+        .hero-left h1 {
+            font-family: 'Merriweather', serif;
+            font-size: 3.5rem;
+            font-weight: 300;
+            line-height: 1.2;
+            color: var(--text-primary);
+        }
 
-    </div>
+        .hero-divider {
+            width: 2px;
+            height: 150px;
+            background-color: var(--text-primary);
+        }
 
-    <footer>
-        <p>The Replication Journal Federation is a <a href="https://forrt.org/" target="_blank">FORRT</a> initiative.</p>
-        <p>Keeping Science Open, Rigorous, and Community-Owned.</p>
-    </footer>
+        .hero-right {
+            flex: 1;
+            padding-left: 3rem;
+        }
 
-</body>
-</html>
+        .hero-right h2 {
+            font-family: 'Merriweather', serif;
+            font-size: 1.8rem;
+            font-weight: 300;
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        /* Structured Sections (First Picture Inspiration) */
+        section {
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .grid-layout {
+            display: grid;
+            grid-template-columns: 200px 1fr;
+        }
+
+        .section-label {
+            padding: 3rem 2rem 3rem 0;
+            border-right: 2px solid var(--border-color);
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--accent-color);
+        }
+
+        .section-content {
+            padding: 3rem 0 3rem 3rem;
+        }
+
+        /* Announcements Carousel */
+        .carousel-container {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 2rem;
+            position: relative;
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .carousel-slide {
+            display: none;
+            animation: fadeIn 0.5s;
+        }
+
+        .carousel-slide.active {
+            display: block;
+        }
+
+        .slide-date {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
