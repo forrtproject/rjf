@@ -1,0 +1,61 @@
+<svg width="400" height="500" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+<title>Replication Journal Federation logo — 8 journals</title>
+<desc>A flat diamond with eight interlocking colored circles representing the federation of replication journals.</desc>
+
+<defs>
+<style>
+.ring { fill: none; stroke-width: 2.6; stroke-linecap: round; }
+.dm { fill: none; stroke-width: 2.2; stroke-linejoin: round; stroke: #2980B9; }
+.dm-bg { opacity: 0.08; fill: #2980B9; }
+.c1 { stroke: #1B6B93; } .c2 { stroke: #2E8B57; } .c3 { stroke: #C0392B; }
+.c4 { stroke: #D4A017; } .c5 { stroke: #7D3C98; } .c6 { stroke: #E67E22; }
+.c7 { stroke: #16A085; } .c8 { stroke: #8B4513; }
+.title-text { font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; font-weight: 400; letter-spacing: 0.18em; }
+.tagline-text { font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; font-weight: 400; letter-spacing: 0.06em; }
+</style>
+
+<clipPath id="d8-in"><polygon points="200,60 280,140 200,220 120,140"/></clipPath>
+<clipPath id="d8-out"><path d="M0,0H400V300H0Z M200,60L120,140 200,220 280,140Z" clip-rule="evenodd"/></clipPath>
+</defs>
+
+<!-- Diamond -->
+<polygon class="dm-bg" points="200,60 280,140 200,220 120,140"/>
+<polygon class="dm" points="200,60 280,140 200,220 120,140"/>
+
+<!-- Rings outside diamond -->
+<g clip-path="url(#d8-out)">
+  <circle class="ring c1" cx="200" cy="53" r="30"/>
+  <circle class="ring c2" cx="258" cy="74" r="30"/>
+  <circle class="ring c3" cx="286" cy="140" r="30"/>
+  <circle class="ring c4" cx="258" cy="206" r="30"/>
+  <circle class="ring c5" cx="200" cy="227" r="30"/>
+  <circle class="ring c6" cx="142" cy="206" r="30"/>
+  <circle class="ring c7" cx="114" cy="140" r="30"/>
+  <circle class="ring c8" cx="142" cy="74" r="30"/>
+</g>
+
+<!-- Rings inside diamond -->
+<g clip-path="url(#d8-in)">
+  <circle class="ring c1" cx="200" cy="53" r="30"/>
+  <circle class="ring c2" cx="258" cy="74" r="30"/>
+  <circle class="ring c3" cx="286" cy="140" r="30"/>
+  <circle class="ring c4" cx="258" cy="206" r="30"/>
+  <circle class="ring c5" cx="200" cy="227" r="30"/>
+  <circle class="ring c6" cx="142" cy="206" r="30"/>
+  <circle class="ring c7" cx="114" cy="140" r="30"/>
+  <circle class="ring c8" cx="142" cy="74" r="30"/>
+</g>
+
+<!-- Title -->
+<text x="200" y="300" text-anchor="middle" class="title-text" fill="#1A1A1A" font-size="22">REPLICATION JOURNAL</text>
+<text x="200" y="328" text-anchor="middle" class="title-text" fill="#1A1A1A" font-size="22">FEDERATION</text>
+
+<g transform="translate(200, 362)">
+  <line x1="-120" y1="0" x2="-14" y2="0" stroke="#999" stroke-width="0.5"/>
+  <polygon points="0,-5 4.5,3 -4.5,3" fill="#2980B9" opacity="0.7"/>
+  <line x1="14" y1="0" x2="120" y2="0" stroke="#999" stroke-width="0.5"/>
+</g>
+
+<text x="200" y="390" text-anchor="middle" class="tagline-text" fill="#666666" font-size="11.5">FREE TO PUBLISH  ·  FREE TO READ  ·  FREE FROM PUBLISHER</text>
+
+</svg>
