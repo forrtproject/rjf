@@ -1,2 +1,2 @@
-# rjf
-Replication Journal Federation
+# Replication Journal Federation
+Contains the website for the RJF
