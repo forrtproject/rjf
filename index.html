@@ -94,9 +94,10 @@
             padding: 0 2rem;
         }
 
-        /* Hero Section with SVG logo */
+        /* Hero Section with SVG logo + HTML text */
         .hero {
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             padding: 4rem 0;
@@ -104,13 +105,41 @@
         }
 
         .hero-logo {
-            max-width: 420px;
+            max-width: 220px;
             width: 100%;
         }
 
         .hero-logo img {
             width: 100%;
             height: auto;
+        }
+
+        .hero-title {
+            margin-top: 1.5rem;
+            font-family: 'Merriweather', serif;
+            font-size: 2rem;
+            font-weight: 300;
+            letter-spacing: 0.12em;
+            text-align: center;
+            line-height: 1.3;
+            color: var(--text-primary);
+        }
+
+        .hero-rule {
+            width: 240px;
+            height: 1px;
+            background-color: var(--border-color);
+            margin: 1.2rem auto;
+            border: none;
+        }
+
+        .hero-tagline {
+            font-family: 'Merriweather', serif;
+            font-size: 0.85rem;
+            font-weight: 300;
+            letter-spacing: 0.06em;
+            text-align: center;
+            color: var(--text-secondary);
         }
 
         section {
@@ -288,7 +317,8 @@
         /* Responsive */
         @media (max-width: 768px) {
             .hero { padding: 3rem 0; }
-            .hero-logo { max-width: 300px; }
+            .hero-logo { max-width: 180px; }
+            .hero-title { font-size: 1.5rem; }
             .grid-layout { grid-template-columns: 1fr; }
             .section-label { padding: 2rem 0 1rem 0; border-right: none; border-bottom: 2px solid var(--border-color); }
             .section-content { padding: 2rem 0; }
@@ -308,6 +338,9 @@
             <div class="hero-logo">
                 <img src="https://raw.githubusercontent.com/forrtproject/rjf/refs/heads/main/rjf_logo_6_circles.svg" alt="Replication Journal Federation Logo">
             </div>
+            <div class="hero-title">Replication Journal<br>Federation</div>
+            <hr class="hero-rule">
+            <div class="hero-tagline">Free to publish · Free to read · Free from publisher</div>
         </header>
 
         <section class="grid-layout">
