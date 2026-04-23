@@ -1,4 +1,4 @@
-<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="260" viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
 <title>Replication Journal Federation logo — 7 journals</title>
 <desc>A flat diamond with seven interlocking colored circles.</desc>
 
@@ -11,31 +11,31 @@
 .c4 { stroke: #D4A017; } .c5 { stroke: #7D3C98; } .c6 { stroke: #E67E22; }
 .c7 { stroke: #16A085; }
 </style>
-<clipPath id="d7-in"><polygon points="200,20 280,100 200,180 120,100"/></clipPath>
-<clipPath id="d7-out"><path d="M0,0H400V240H0Z M200,20L120,100 200,180 280,100Z" clip-rule="evenodd"/></clipPath>
+<clipPath id="d7-in"><polygon points="200,50 280,130 200,210 120,130"/></clipPath>
+<clipPath id="d7-out"><path d="M0,0H400V260H0Z M200,50L120,130 200,210 280,130Z" clip-rule="evenodd"/></clipPath>
 </defs>
 
-<polygon class="dm-bg" points="200,20 280,100 200,180 120,100"/>
-<polygon class="dm" points="200,20 280,100 200,180 120,100"/>
+<polygon class="dm-bg" points="200,50 280,130 200,210 120,130"/>
+<polygon class="dm" points="200,50 280,130 200,210 120,130"/>
 
 <g clip-path="url(#d7-out)">
-  <circle class="ring c1" cx="200" cy="13" r="30"/>
-  <circle class="ring c2" cx="268" cy="40" r="30"/>
-  <circle class="ring c3" cx="286" cy="110" r="30"/>
-  <circle class="ring c4" cx="238" cy="176" r="30"/>
-  <circle class="ring c5" cx="162" cy="176" r="30"/>
-  <circle class="ring c6" cx="114" cy="110" r="30"/>
-  <circle class="ring c7" cx="132" cy="40" r="30"/>
+  <circle class="ring c1" cx="200" cy="43" r="30"/>
+  <circle class="ring c2" cx="268" cy="70" r="30"/>
+  <circle class="ring c3" cx="286" cy="140" r="30"/>
+  <circle class="ring c4" cx="238" cy="206" r="30"/>
+  <circle class="ring c5" cx="162" cy="206" r="30"/>
+  <circle class="ring c6" cx="114" cy="140" r="30"/>
+  <circle class="ring c7" cx="132" cy="70" r="30"/>
 </g>
 
 <g clip-path="url(#d7-in)">
-  <circle class="ring c1" cx="200" cy="13" r="30"/>
-  <circle class="ring c2" cx="268" cy="40" r="30"/>
-  <circle class="ring c3" cx="286" cy="110" r="30"/>
-  <circle class="ring c4" cx="238" cy="176" r="30"/>
-  <circle class="ring c5" cx="162" cy="176" r="30"/>
-  <circle class="ring c6" cx="114" cy="110" r="30"/>
-  <circle class="ring c7" cx="132" cy="40" r="30"/>
+  <circle class="ring c1" cx="200" cy="43" r="30"/>
+  <circle class="ring c2" cx="268" cy="70" r="30"/>
+  <circle class="ring c3" cx="286" cy="140" r="30"/>
+  <circle class="ring c4" cx="238" cy="206" r="30"/>
+  <circle class="ring c5" cx="162" cy="206" r="30"/>
+  <circle class="ring c6" cx="114" cy="140" r="30"/>
+  <circle class="ring c7" cx="132" cy="70" r="30"/>
 </g>
 
 </svg>
