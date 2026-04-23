@@ -4,12 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Replication Journal Federation</title>
-    <!-- Import elegant serif (FORRT style) and clean sans-serif (grid style) -->
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     
     <style>
         :root {
-            /* Light Theme Variables */
             --bg-primary: #ffffff;
             --bg-secondary: #f4f5f5;
             --text-primary: #1a1a1a;
@@ -17,12 +15,12 @@
             --nav-bg: #333333;
             --nav-text: #ffffff;
             --border-color: #d1d5db;
-            --accent-color: #2b593f; /* Dark green from first image inspiration */
+            --accent-color: #2b593f;
             --card-bg: #ffffff;
+            --logo-bg: transparent;
         }
 
         [data-theme="dark"] {
-            /* Dark Theme Variables */
             --bg-primary: #121212;
             --bg-secondary: #1e1e1e;
             --text-primary: #e0e0e0;
@@ -32,6 +30,7 @@
             --border-color: #333333;
             --accent-color: #4ade80;
             --card-bg: #1e1e1e;
+            --logo-bg: rgba(240, 240, 240, 0.92);
         }
 
         * {
@@ -48,7 +47,6 @@
             line-height: 1.6;
         }
 
-        /* FORRT-style Dark Navigation */
         nav {
             background-color: var(--nav-bg);
             color: var(--nav-text);
@@ -64,7 +62,16 @@
             letter-spacing: 1px;
         }
 
-        /* Dark Mode Toggle Button */
+        .nav-logo a {
+            color: var(--nav-text);
+            text-decoration: none;
+        }
+
+        .nav-logo a:hover {
+            text-decoration: underline;
+            color: var(--nav-text);
+        }
+
         #theme-toggle {
             background: none;
             border: 1px solid var(--nav-text);
@@ -87,49 +94,25 @@
             padding: 0 2rem;
         }
 
-        /* Hero Section mimicking FORRT vertical split layout */
+        /* Hero Section with SVG logo */
         .hero {
             display: flex;
             align-items: center;
             justify-content: center;
-            padding: 6rem 0;
+            padding: 4rem 0;
             border-bottom: 2px solid var(--border-color);
         }
 
-        .hero-left {
-            flex: 1;
-            text-align: right;
-            padding-right: 3rem;
+        .hero-logo {
+            max-width: 420px;
+            width: 100%;
         }
 
-        .hero-left h1 {
-            font-family: 'Merriweather', serif;
-            font-size: 3.5rem;
-            font-weight: 300;
-            line-height: 1.2;
-            color: var(--text-primary);
+        .hero-logo img {
+            width: 100%;
+            height: auto;
         }
 
-        .hero-divider {
-            width: 2px;
-            height: 150px;
-            background-color: var(--text-primary);
-        }
-
-        .hero-right {
-            flex: 1;
-            padding-left: 3rem;
-        }
-
-        .hero-right h2 {
-            font-family: 'Merriweather', serif;
-            font-size: 1.8rem;
-            font-weight: 300;
-            color: var(--text-secondary);
-            font-style: italic;
-        }
-
-        /* Structured Sections (First Picture Inspiration) */
         section {
             border-bottom: 2px solid var(--border-color);
         }
@@ -208,42 +191,59 @@
             background: var(--border-color);
         }
 
-        /* Journal Grid */
+        /* Journal Grid — compact cards */
         .journals-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1.25rem;
             margin-top: 1rem;
         }
 
         .journal-card {
             background: var(--card-bg);
             border: 1px solid var(--border-color);
-            padding: 1.5rem;
+            padding: 1.1rem;
             text-align: center;
             display: flex;
             flex-direction: column;
         }
 
+        .journal-logo-wrap {
+            background-color: var(--logo-bg);
+            border-radius: 6px;
+            padding: 0.5rem;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 50px;
+            transition: background-color 0.3s ease;
+        }
+
         .journal-logo {
-            max-height: 60px;
-            margin-bottom: 1rem;
+            max-height: 46px;
             object-fit: contain;
             width: 100%;
         }
 
         .journal-card h4 {
             font-family: 'Merriweather', serif;
-            font-size: 1.2rem;
-            margin-bottom: 1rem;
+            font-size: 1.05rem;
+            margin-bottom: 0.6rem;
             color: var(--text-primary);
         }
 
         .journal-card video {
             width: 100%;
             border-radius: 4px;
-            margin-bottom: 1rem;
+            margin-bottom: 0.6rem;
             background: #000;
+        }
+
+        .journal-card p {
+            font-size: 0.85rem;
+            margin-bottom: 0.75rem;
+            line-height: 1.5;
         }
 
         a {
@@ -287,10 +287,8 @@
 
         /* Responsive */
         @media (max-width: 768px) {
-            .hero { flex-direction: column; text-align: center; padding: 3rem 0; }
-            .hero-left { text-align: center; padding: 0 0 2rem 0; }
-            .hero-divider { width: 100px; height: 2px; margin: 0 auto 2rem auto; }
-            .hero-right { padding: 0; }
+            .hero { padding: 3rem 0; }
+            .hero-logo { max-width: 300px; }
             .grid-layout { grid-template-columns: 1fr; }
             .section-label { padding: 2rem 0 1rem 0; border-right: none; border-bottom: 2px solid var(--border-color); }
             .section-content { padding: 2rem 0; }
@@ -300,19 +298,15 @@
 <body>
 
     <nav>
-        <div class="nav-logo">FORRT Replication Hub</div>
+        <div class="nav-logo"><a href="https://forrt.org/replication-hub" target="_blank">FORRT Replication Hub</a></div>
         <button id="theme-toggle" onclick="toggleTheme()">Dark Mode: Off</button>
     </nav>
 
     <div class="container">
         
         <header class="hero">
-            <div class="hero-left">
-                <h1>Replication<br>Journal<br>Federation</h1>
-            </div>
-            <div class="hero-divider"></div>
-            <div class="hero-right">
-                <h2>Free to publish.<br>Free to read.<br>Free from publisher.</h2>
+            <div class="hero-logo">
+                <img src="https://raw.githubusercontent.com/forrtproject/rjf/refs/heads/main/rjf_logo_6_circles.svg" alt="Replication Journal Federation Logo">
             </div>
         </header>
 
@@ -320,7 +314,6 @@
             <div class="section-label">Announcements</div>
             <div class="section-content">
                 <div class="carousel-container" id="carousel">
-                    <!-- Slides are injected here by JavaScript -->
                 </div>
                 <div class="carousel-controls">
                     <button class="carousel-btn" onclick="prevSlide()">← Prev</button>
@@ -343,78 +336,83 @@
             <div class="section-content">
                 <div class="journals-grid">
                     
-                    <!-- Journal 1: Replication Research (R2) -->
                     <div class="journal-card">
-                        <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/replicationresearch.png" alt="Replication Research Logo" class="journal-logo" style="filter: brightness(0.9);">
+                        <div class="journal-logo-wrap">
+                            <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/replicationresearch.png" alt="Replication Research Logo" class="journal-logo">
+                        </div>
                         <h4>Replication Research (R2)</h4>
                         <video controls poster="">
                             <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/r2.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <p style="margin-bottom: 1rem; font-size: 0.9rem;">A diamond open-access journal dedicated to publishing high-quality replication studies and conceptual contributions on re-doing research across disciplines.</p>
+                        <p>A diamond open-access journal dedicated to publishing high-quality replication studies and conceptual contributions on re-doing research across disciplines.</p>
                         <a href="https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index" target="_blank" style="margin-top: auto;">Visit R2 Website →</a>
                     </div>
 
-                    <!-- Journal 2: Rescience X -->
                     <div class="journal-card">
-                        <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/resciencex.png" alt="Rescience X Logo" class="journal-logo" style="filter: brightness(0.9);">
+                        <div class="journal-logo-wrap">
+                            <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/resciencex.png" alt="Rescience X Logo" class="journal-logo">
+                        </div>
                         <h4>Rescience X</h4>
                         <video controls>
                             <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/resciencex.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <p style="margin-bottom: 1rem; font-size: 0.9rem;">An open access, peer-reviewed, academic journal for the dissemination of replicated experimental research.</p>
+                        <p>An open access, peer-reviewed, academic journal for the dissemination of replicated experimental research.</p>
                         <a href="http://rescience.org/x" target="_blank" style="margin-top: auto;">Visit ReScience X Website →</a>
                     </div>
 
-                    <!-- Journal 3: Rescience C -->
                     <div class="journal-card">
-                        <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/resciencec.png" alt="Rescience C Logo" class="journal-logo" style="filter: brightness(0.9);">
+                        <div class="journal-logo-wrap">
+                            <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/resciencec.png" alt="Rescience C Logo" class="journal-logo">
+                        </div>
                         <h4>Rescience C</h4>
                         <video controls>
                             <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/resciencec.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <p style="margin-bottom: 1rem; font-size: 0.9rem;">ReScience C is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</p>
+                        <p>ReScience C is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</p>
                         <a href="https://rescience.github.io" target="_blank" style="margin-top: auto;">Visit ReScience C Website →</a>
                     </div>
 
-                     <!-- Journal 4: JCRE -->
                     <div class="journal-card">
-                        <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/jcre.jpg" alt="JCRE Logo" class="journal-logo" style="filter: brightness(0.9);">
+                        <div class="journal-logo-wrap">
+                            <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/jcre.jpg" alt="JCRE Logo" class="journal-logo">
+                        </div>
                         <h4>Journal of Comments and Replications in Economics</h4>
                         <video controls>
                             <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/jcre.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <p style="margin-bottom: 1rem; font-size: 0.9rem;">JCRE aims to be the premier outlet for articles that comment on or replicate previously published articles in economics and closely related disciplines.</p>
+                        <p>JCRE aims to be the premier outlet for articles that comment on or replicate previously published articles in economics and closely related disciplines.</p>
                         <a href="https://jcr-econ.org" target="_blank" style="margin-top: auto;">Visit JCRE Website →</a>
                     </div>
 
-                     <!-- Journal 5: JRR -->
                     <div class="journal-card">
-                        <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/jrr.svg" alt="JRR Logo" class="journal-logo" style="filter: brightness(0.9);">
+                        <div class="journal-logo-wrap">
+                            <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/jrr.svg" alt="JRR Logo" class="journal-logo">
+                        </div>
                         <h4>Journal of Robustness Reports</h4>
                         <video controls>
                             <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/jrr.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <p style="margin-bottom: 1rem; font-size: 0.9rem;">JRR is a diamond open-access journal that focuses on the reanalysis of high-impact empirical findings.</p>
+                        <p>JRR is a diamond open-access journal that focuses on the reanalysis of high-impact empirical findings.</p>
                         <a href="https://www.journalofrobustnessreports.org" target="_blank" style="margin-top: auto;">Visit JRR Website →</a>
                     </div>
 
-                    <!-- Journal 6: JOPD -->
                     <div class="journal-card">
-                        <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/jopd.png" alt="JRR Logo" class="journal-logo" style="filter: brightness(0.9);">
+                        <div class="journal-logo-wrap">
+                            <img src="https://raw.githubusercontent.com/forrtproject/rjf/main/members/jopd.png" alt="JOPD Logo" class="journal-logo">
+                        </div>
                         <h4>Journal of Open Psychology Data</h4>
                         <video controls>
                             <source src="https://www.uni-muenster.de/imperia/md/video/MueCOS/jopd.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                        <p style="margin-bottom: 1rem; font-size: 0.9rem;">JOPD accepts Verification Reports as an attempt to validate the extent to which psychological datasets are accessible, reproducible, and valuable.</p>
+                        <p>JOPD accepts Verification Reports as an attempt to validate the extent to which psychological datasets are accessible, reproducible, and valuable.</p>
                         <a href="https://openpsychologydata.metajnl.com/verification-reports" target="_blank" style="margin-top: auto;">Visit JOPD Website →</a>
                     </div>
-
 
                 </div>
             </div>
@@ -432,12 +430,11 @@
         </section>
 
         <footer>
-            Keeping Science Open, Rigorous, and Community-Owned.
+            Publishing reproductions and replications by and for the scientific community.
         </footer>
     </div>
 
     <script>
-        // --- Dark Mode Logic ---
         function toggleTheme() {
             const body = document.documentElement;
             const btn = document.getElementById('theme-toggle');
@@ -453,16 +450,11 @@
             }
         }
 
-        // Check for saved theme preference
         if (localStorage.getItem('theme') === 'dark') {
             document.documentElement.setAttribute('data-theme', 'dark');
             document.getElementById('theme-toggle').textContent = 'Dark Mode: On';
         }
 
-        // --- Announcements Carousel Logic ---
-        // Note: To truly fetch from a .md file, you would use:
-        // fetch('post.md').then(res => res.text()).then(text => parseMarkdown(text));
-        // For standalone HTML functionality without a local server, we simulate the parsed MD files here:
         const announcements = [
             {
                 date: "April 2026",
@@ -504,7 +496,6 @@
             showSlide(currentSlide);
         }
 
-        // Initialize carousel
         renderSlides();
     </script>
 
