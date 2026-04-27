@@ -275,6 +275,48 @@
             line-height: 1.5;
         }
 
+        /* Table Styles */
+        .table-responsive {
+            overflow-x: auto;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            background-color: var(--card-bg);
+        }
+
+        .guidance-table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 800px;
+        }
+
+        .guidance-table th, 
+        .guidance-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.85rem;
+            line-height: 1.4;
+        }
+
+        .guidance-table th {
+            font-family: 'Merriweather', serif;
+            color: var(--accent-color);
+            font-weight: 700;
+            background-color: var(--bg-secondary);
+        }
+
+        .guidance-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        .guidance-table tbody tr:hover {
+            background-color: var(--bg-secondary);
+        }
+
+        .center-text {
+            text-align: center !important;
+        }
+
         a {
             color: var(--accent-color);
             text-decoration: none;
@@ -477,6 +519,84 @@
                         <a href="https://openpsychologydata.metajnl.com/verification-reports" target="_blank" style="margin-top: auto;">Visit JOPD Website →</a>
                     </div>
 
+                </div>
+            </div>
+        </section>
+
+        <!-- NEW GUIDANCE FOR AUTHORS SECTION -->
+        <section class="grid-layout">
+            <div class="section-label">Guidance for Authors</div>
+            <div class="section-content">
+                <div class="table-responsive">
+                    <table class="guidance-table">
+                        <thead>
+                            <tr>
+                                <th>Journal Name</th>
+                                <th>Commercial Status</th>
+                                <th>Owners</th>
+                                <th>Disciplines</th>
+                                <th class="center-text">Reproduction</th>
+                                <th class="center-text">Replication</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Journal of Comments and Replications in Economics (JCRe)</strong></td>
+                                <td>Non-commercial, diamond OA</td>
+                                <td>ZBW</td>
+                                <td>Economics</td>
+                                <td class="center-text">✅</td>
+                                <td class="center-text">✅</td>
+                                <td>Conducts reproducibility checks</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Replication Research (R2)</strong></td>
+                                <td>Non-commercial, diamond OA</td>
+                                <td>Münster Center for Open Science and FORRT</td>
+                                <td>Multidisciplinary</td>
+                                <td class="center-text">✅</td>
+                                <td class="center-text">✅</td>
+                                <td>Conducts reproducibility checks</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Journal of Open Psychology Data (JOPD)</strong></td>
+                                <td>Commercial, Gold OA (APCs: £450)</td>
+                                <td>Ubiquity Press</td>
+                                <td>Psychology</td>
+                                <td class="center-text">✅</td>
+                                <td class="center-text">❌</td>
+                                <td>“Verification reports” are Registered reports</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Journal of Robustness Reports</strong></td>
+                                <td>Non-commercial, diamond OA</td>
+                                <td>SciPost</td>
+                                <td>Multidisciplinary</td>
+                                <td class="center-text">✅</td>
+                                <td class="center-text">❌</td>
+                                <td>Robustness reports are limited to 500 words and 1 display element</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Rescience C</strong></td>
+                                <td>Non-commercial, diamond OA</td>
+                                <td>Olivia Guest, Benoît Girard, Konrad Hinsen, Nicolas P. Rougier</td>
+                                <td>Multidisciplinary</td>
+                                <td class="center-text">✅</td>
+                                <td class="center-text">❌</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Rescience X</strong></td>
+                                <td>Non-commercial, diamond OA</td>
+                                <td>Etienne B. Roesch</td>
+                                <td>Multidisciplinary</td>
+                                <td class="center-text">❌</td>
+                                <td class="center-text">✅</td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </section>
