@@ -18,6 +18,8 @@
             --accent-color: #2b593f;
             --card-bg: #ffffff;
             --logo-bg: transparent;
+            --check-color: #16a34a;
+            --cross-color: #dc2626;
         }
 
         [data-theme="dark"] {
@@ -31,6 +33,8 @@
             --accent-color: #4ade80;
             --card-bg: #1e1e1e;
             --logo-bg: rgba(240, 240, 240, 0.92);
+            --check-color: #4ade80;
+            --cross-color: #f87171;
         }
 
         * {
@@ -163,6 +167,12 @@
 
         .section-content {
             padding: 3rem 0 3rem 3rem;
+        }
+
+        .section-desc {
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
         }
 
         /* Announcements Carousel */
@@ -316,6 +326,21 @@
         .center-text {
             text-align: center !important;
         }
+
+        /* Custom Icons */
+        .icon-svg {
+            width: 20px;
+            height: 20px;
+            stroke-width: 2.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            fill: none;
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        .icon-check { stroke: var(--check-color); }
+        .icon-cross { stroke: var(--cross-color); }
         
         /* Tooltip Styles */
         .tooltip-container {
@@ -346,7 +371,7 @@
             visibility: hidden;
             opacity: 0;
             position: absolute;
-            bottom: 150%;
+            top: calc(100% + 10px); /* Opens downwards instead of upwards */
             left: 50%;
             transform: translateX(-50%);
             width: max-content;
@@ -354,7 +379,7 @@
             background-color: var(--nav-bg);
             color: var(--nav-text);
             text-align: center;
-            padding: 0.5rem 0.75rem;
+            padding: 0.6rem 0.85rem;
             border-radius: 6px;
             z-index: 10;
             font-size: 0.75rem;
@@ -363,7 +388,7 @@
             line-height: 1.4;
             text-transform: none;
             letter-spacing: normal;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
             transition: opacity 0.2s ease, visibility 0.2s ease;
             white-space: normal;
         }
@@ -377,15 +402,16 @@
             opacity: 1;
         }
 
+        /* Tooltip Arrow */
         .tooltip-text::after {
             content: "";
             position: absolute;
-            top: 100%;
+            bottom: 100%; /* Arrow moves to the top of the tooltip box */
             left: 50%;
-            margin-left: -5px;
-            border-width: 5px;
+            margin-left: -6px;
+            border-width: 6px;
             border-style: solid;
-            border-color: var(--nav-bg) transparent transparent transparent;
+            border-color: transparent transparent var(--nav-bg) transparent;
         }
 
         a {
@@ -598,6 +624,7 @@
         <section class="grid-layout">
             <div class="section-label">Guidance for Authors</div>
             <div class="section-content">
+                <p class="section-desc">The table below highlights the key differences between the RJF member journals (listed in alphabetical order) to help you choose the best fit for your submission.</p>
                 <div class="table-responsive">
                     <table class="guidance-table">
                         <thead>
@@ -629,8 +656,8 @@
                                 <td>Non-commercial, diamond OA</td>
                                 <td>ZBW</td>
                                 <td>Economics</td>
-                                <td class="center-text">✅</td>
-                                <td class="center-text">✅</td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
                                 <td>Conducts reproducibility checks</td>
                             </tr>
                              <tr>
@@ -638,8 +665,8 @@
                                 <td>Commercial, Gold OA (APCs: £450)</td>
                                 <td>Ubiquity Press</td>
                                 <td>Psychology</td>
-                                <td class="center-text">✅</td>
-                                <td class="center-text">❌</td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
+                                <td class="center-text"><svg class="icon-svg icon-cross" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"></path></svg></td>
                                 <td>“Verification reports” are Registered reports</td>
                             </tr>                                                    
                             <tr>
@@ -647,8 +674,8 @@
                                 <td>Non-commercial, diamond OA</td>
                                 <td>SciPost</td>
                                 <td>Multidisciplinary</td>
-                                <td class="center-text">✅</td>
-                                <td class="center-text">❌</td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
+                                <td class="center-text"><svg class="icon-svg icon-cross" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"></path></svg></td>
                                 <td>Robustness reports are limited to 500 words and 1 display element</td>
                             </tr>
                             <tr>
@@ -656,8 +683,8 @@
                                 <td>Non-commercial, diamond OA</td>
                                 <td>Münster Center for Open Science and FORRT</td>
                                 <td>Multidisciplinary</td>
-                                <td class="center-text">✅</td>
-                                <td class="center-text">✅</td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
                                 <td>Conducts reproducibility checks. <br><a href="https://docs.google.com/forms/d/e/1FAIpQLScktynmACLlyYc7Ezp1dmcEWoyvr02Xy2D59F8o3JZyhCCaGw/viewform" target="_blank">Pre-submission inquiry →</a></td>
                             </tr> 
                             <tr>
@@ -665,8 +692,8 @@
                                 <td>Non-commercial, diamond OA</td>
                                 <td>Olivia Guest, Benoît Girard, Konrad Hinsen, Nicolas P. Rougier</td>
                                 <td>Multidisciplinary</td>
-                                <td class="center-text">✅</td>
-                                <td class="center-text">✅</td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
                                 <td></td>
                             </tr>
                             <tr>
@@ -674,8 +701,8 @@
                                 <td>Non-commercial, diamond OA</td>
                                 <td>Etienne B. Roesch</td>
                                 <td>Multidisciplinary</td>
-                                <td class="center-text">✅</td>
-                                <td class="center-text">✅</td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
+                                <td class="center-text"><svg class="icon-svg icon-check" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"></path></svg></td>
                                 <td></td>
                             </tr>
                         </tbody>
