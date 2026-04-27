@@ -316,6 +316,77 @@
         .center-text {
             text-align: center !important;
         }
+        
+        /* Tooltip Styles */
+        .tooltip-container {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            cursor: help;
+        }
+
+        .tooltip-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            border: 1px solid var(--accent-color);
+            color: var(--accent-color);
+            font-family: monospace;
+            font-size: 10px;
+            font-weight: bold;
+            line-height: 1;
+            transition: color 0.3s, border-color 0.3s;
+        }
+
+        .tooltip-text {
+            visibility: hidden;
+            opacity: 0;
+            position: absolute;
+            bottom: 150%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: max-content;
+            max-width: 220px;
+            background-color: var(--nav-bg);
+            color: var(--nav-text);
+            text-align: center;
+            padding: 0.5rem 0.75rem;
+            border-radius: 6px;
+            z-index: 10;
+            font-size: 0.75rem;
+            font-family: 'Inter', sans-serif;
+            font-weight: 400;
+            line-height: 1.4;
+            text-transform: none;
+            letter-spacing: normal;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: opacity 0.2s ease, visibility 0.2s ease;
+            white-space: normal;
+        }
+
+        .tooltip-text strong {
+            font-weight: 700;
+        }
+
+        .tooltip-container:hover .tooltip-text {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .tooltip-text::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: var(--nav-bg) transparent transparent transparent;
+        }
 
         a {
             color: var(--accent-color);
@@ -535,8 +606,20 @@
                                 <th>Commercial Status</th>
                                 <th>Owners</th>
                                 <th>Disciplines</th>
-                                <th class="center-text">Reproduction</th>
-                                <th class="center-text">Replication</th>
+                                <th class="center-text">
+                                    <div class="tooltip-container">
+                                        Reproduction
+                                        <span class="tooltip-icon">i</span>
+                                        <span class="tooltip-text">Repeated tests of a published claim using <strong>the same</strong> data.</span>
+                                    </div>
+                                </th>
+                                <th class="center-text">
+                                    <div class="tooltip-container">
+                                        Replication
+                                        <span class="tooltip-icon">i</span>
+                                        <span class="tooltip-text">Repeated tests of a published claim using <strong>different</strong> data.</span>
+                                    </div>
+                                </th>
                                 <th>Notes</th>
                             </tr>
                         </thead>
@@ -583,7 +666,7 @@
                                 <td>Olivia Guest, Benoît Girard, Konrad Hinsen, Nicolas P. Rougier</td>
                                 <td>Multidisciplinary</td>
                                 <td class="center-text">✅</td>
-                                <td class="center-text">❌</td>
+                                <td class="center-text">✅</td>
                                 <td></td>
                             </tr>
                             <tr>
@@ -591,7 +674,7 @@
                                 <td>Non-commercial, diamond OA</td>
                                 <td>Etienne B. Roesch</td>
                                 <td>Multidisciplinary</td>
-                                <td class="center-text">❌</td>
+                                <td class="center-text">✅</td>
                                 <td class="center-text">✅</td>
                                 <td></td>
                             </tr>
