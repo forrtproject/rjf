@@ -1,0 +1,3904 @@
+{
+ "journals": {
+  "jcre": "Journal of Comments and Replications in Economics",
+  "jopd": "Journal of Open Psychology Data",
+  "jrr": "Journal of Robustness Reports",
+  "r2": "Replication Research",
+  "rescience-c": "ReScience C",
+  "rescience-x": "ReScience X"
+ },
+ "publications": [
+  {
+   "journal": "r2",
+   "title": "Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)",
+   "authors": [
+    "Dhruv Aggarwal",
+    "Keyi Zhang",
+    "James Bartlett"
+   ],
+   "date": "2026-10-06",
+   "doi": "10.17879/replicationresearch-2026-10085",
+   "url": "https://doi.org/10.17879/replicationresearch-2026-10085",
+   "type": "Replications (different data)"
+  },
+  {
+   "journal": "jrr",
+   "title": "Test anxiety can predict exam scores depending on how missing data and influential data points are treated",
+   "authors": [
+    "Dylan Molenaar"
+   ],
+   "date": "2026-09-11",
+   "doi": "10.21468/jrobustrep.6-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.6-rr1",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Betting Strategies of Internet Bots are not Relevant to Human Judgment. A Reply to Barna Bakó and Máté Csaba Sándor (Journal of Comments and Replications in Economics, 2026)",
+   "authors": [
+    "Juemin Xu",
+    "Nigel Harvey"
+   ],
+   "date": "2026-08-21",
+   "doi": "10.18718/81781.64",
+   "url": "https://doi.org/10.18718/81781.64",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Approaching the Hot Hand with a Cool Head. A Comment on Xu and Harvey (Cognition, 2014)",
+   "authors": [
+    "Barna Bakó",
+    "Máté Csaba Sándor"
+   ],
+   "date": "2026-08-21",
+   "doi": "10.18718/81781.63",
+   "url": "https://doi.org/10.18718/81781.63",
+   "type": null
+  },
+  {
+   "journal": "r2",
+   "title": "Reproduction and Replication of an Adversarial Stylometry Experiment",
+   "authors": [
+    "Haining Wang",
+    "Patrick Juola",
+    "Allen Riddell"
+   ],
+   "date": "2026-08-14",
+   "doi": "10.17879/replicationresearch-2026-9414",
+   "url": "https://doi.org/10.17879/replicationresearch-2026-9414",
+   "type": "Multi-study articles"
+  },
+  {
+   "journal": "jrr",
+   "title": "Competition and innovation: An alternative analysis",
+   "authors": [
+    "Daniel L. Lakeland"
+   ],
+   "date": "2026-08-11",
+   "doi": "10.21468/jrobustrep.4-rr2",
+   "url": "https://doi.org/10.21468/jrobustrep.4-rr2",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Reexamining the Effect of Clean Water. A Replication Study of Anderson, Charles, and Rees (AEJ: Applied Economics, 2022)",
+   "authors": [
+    "Ivan Kozlov",
+    "Carson Jones"
+   ],
+   "date": "2026-07-29",
+   "doi": "10.18718/81781.62",
+   "url": "https://doi.org/10.18718/81781.62",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "On the First-differences Analysis of Mask Usage and Excess Mortality. A Reply to Rangel (Journal of Comments and Replications in Economics, 2026)",
+   "authors": [
+    "Daniel V. Tausk"
+   ],
+   "date": "2026-07-17",
+   "doi": "10.18718/81781.61",
+   "url": "https://doi.org/10.18718/81781.61",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Does Mask Usage Correlate with Excess Mortality? Findings from 24 European Countries. A Comment on Tausk and Spira (BMC Public Health, 2025)",
+   "authors": [
+    "Victor Rangel"
+   ],
+   "date": "2026-07-17",
+   "doi": "10.18718/81781.60",
+   "url": "https://doi.org/10.18718/81781.60",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Business as Usual? A Replication of Andrews, Pritchett, and Woolcock (Building State Capability: Evidence, Analysis, Action, 2017)",
+   "authors": [
+    "Ryan H. Murphy"
+   ],
+   "date": "2026-06-17",
+   "doi": "10.18718/81781.59",
+   "url": "https://doi.org/10.18718/81781.59",
+   "type": null
+  },
+  {
+   "journal": "jrr",
+   "title": "Accuracy prompts increase the quality of news sharing while attitudinal congruence robustly reduces it",
+   "authors": [
+    "Ilse L. Pit"
+   ],
+   "date": "2026-05-21",
+   "doi": "10.21468/jrobustrep.5-rr2",
+   "url": "https://doi.org/10.21468/jrobustrep.5-rr2",
+   "type": null
+  },
+  {
+   "journal": "r2",
+   "title": "From Replication Rates to Replication Evidence: A Guest Editorial",
+   "authors": [
+    "Felix Holzmeister",
+    "Colin Camerer",
+    "Florian Cova",
+    "Anna Dreber",
+    "Magnus Johannesson"
+   ],
+   "date": "2026-04-30",
+   "doi": "10.17879/replicationresearch-2026-9577",
+   "url": "https://doi.org/10.17879/replicationresearch-2026-9577",
+   "type": "Editorial Communication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Tacit Algorithmic Collusion. A Replication of Calvano et al. (American Economic Review, 2020)",
+   "authors": [
+    "Jacob Schildknecht"
+   ],
+   "date": "2026-04-21",
+   "doi": "10.18718/81781.58",
+   "url": "https://doi.org/10.18718/81781.58",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Schooling and Labor Market Consequences of School Construction in Indonesia. A Reply to Roodman (Journal of Comments and Replications in Economics, 2026)",
+   "authors": [
+    "Esther Duflo",
+    "Allan Hsiao",
+    "Mikey Jarrell",
+    "Nathan Lazarus"
+   ],
+   "date": "2026-04-07",
+   "doi": "10.18718/81781.57",
+   "url": "https://doi.org/10.18718/81781.57",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Schooling and Labor Market Consequences of School Construction in Indonesia. A Comment on Duflo (American Economic Review, 2001)",
+   "authors": [
+    "David Roodman"
+   ],
+   "date": "2026-04-07",
+   "doi": "10.18718/81781.56",
+   "url": "https://doi.org/10.18718/81781.56",
+   "type": null
+  },
+  {
+   "journal": "jrr",
+   "title": "Reanalysis of “Competition and innovation: An inverted- U relationship”",
+   "authors": [
+    "Andrew Gelman"
+   ],
+   "date": "2026-03-27",
+   "doi": "10.21468/jrobustrep.4-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.4-rr1",
+   "type": null
+  },
+  {
+   "journal": "jrr",
+   "title": "Facilitating better sharing quality of COVID-related headlines",
+   "authors": [
+    "Irene Sophia Plank"
+   ],
+   "date": "2026-03-27",
+   "doi": "10.21468/jrobustrep.5-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.5-rr1",
+   "type": null
+  },
+  {
+   "journal": "jrr",
+   "title": "Multiverse analysis of the effect of a non-deceptive placebo on a neural measure of emotional distress",
+   "authors": [
+    "Hannah E. Fowles",
+    "Peter J. Allen"
+   ],
+   "date": "2026-03-26",
+   "doi": "10.21468/jrobustrep.3-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.3-rr1",
+   "type": null
+  },
+  {
+   "journal": "jrr",
+   "title": "Reanalyzing Castner et al. confirms most conclusions, reveals additional findings, and detects some statistical errors",
+   "authors": [
+    "Olivia C. Robertson",
+    "Erik Parker",
+    "Beate Henschel",
+    "Anna L. M. Macagno",
+    "Daniel E. Kpormegbey",
+    "Deependra K. Thapa",
+    "David B. Allison"
+   ],
+   "date": "2026-03-25",
+   "doi": "10.21468/jrobustrep.2-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.2-rr1",
+   "type": null
+  },
+  {
+   "journal": "jrr",
+   "title": "No evidence that late-sighted individuals rely more on color for object recognition: A Bayesian generalized mixed effects model analysis",
+   "authors": [
+    "Thomas S. A. Wallis",
+    "Joshua M. Martin"
+   ],
+   "date": "2026-03-24",
+   "doi": "10.21468/jrobustrep.1-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.1-rr1",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Large-Scale Education Reform in General Equilibrium: Regression Discontinuity Evidence from India. A Reply to Roodman (Journal of Comments and Replications in Economics, 2026)",
+   "authors": [
+    "Gaurav Khanna"
+   ],
+   "date": "2026-03-05",
+   "doi": "10.18718/81781.55",
+   "url": "https://doi.org/10.18718/81781.55",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Large-Scale Education Reform in General Equilibrium: Regression Discontinuity Evidence from India. A Replication Study of Khanna (Journal of Political Economy, 2023)",
+   "authors": [
+    "David Roodman"
+   ],
+   "date": "2026-03-05",
+   "doi": "10.18718/81781.54",
+   "url": "https://doi.org/10.18718/81781.54",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Do Parties Matter for Economic Outcomes? A Reply to Martin Korpi and Erik Lakomaa (Journal of Comments and Replications in Economics, 2026)",
+   "authors": [
+    "Per Pettersson-Lidbom"
+   ],
+   "date": "2026-02-24",
+   "doi": "10.18718/81781.53",
+   "url": "https://doi.org/10.18718/81781.53",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Do Parties Matter for Economic Outcomes? A Replication Study of Pettersson-Lidbom (Journal of the European Economic Association, 2008)",
+   "authors": [
+    "Martin Korpi",
+    "Erik Lakomaa"
+   ],
+   "date": "2026-02-16",
+   "doi": "10.18718/81781.52",
+   "url": "https://doi.org/10.18718/81781.52",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Stable Adjustments in Regression Discontinuity. A Reply to Albada (Journal of Comments and Replications in Economics, 2025)",
+   "authors": [
+    "Andrew Gelman",
+    "Guido Imbens"
+   ],
+   "date": "2026-01-28",
+   "doi": "10.18718/81781.51",
+   "url": "https://doi.org/10.18718/81781.51",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Curve-Fitting with Piecewise Parametric Cubics",
+   "authors": [
+    "Daniel Perazzo",
+    "Davi Guimarães Nunes Sena Castro",
+    "Luiz Velho",
+    "Luiz Henrique de Figueiredo"
+   ],
+   "date": "2026-01",
+   "doi": "10.5281/zenodo.18400484",
+   "url": "https://doi.org/10.5281/zenodo.18400484",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "Learning with Noisy Labels [Re]visited",
+   "authors": [
+    "Valter Hudovernik",
+    "Žiga Rot",
+    "Klemen Vovk",
+    "Luka Škodnik",
+    "Luka Čehovin Zajc"
+   ],
+   "date": "2026-01",
+   "doi": "10.5281/zenodo.18401497",
+   "url": "https://doi.org/10.5281/zenodo.18401497",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Why High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs A Comment on Gelman and Imbens (Journal of Business & Economic Statistics, 2019)",
+   "authors": [
+    "Melle R. Albada"
+   ],
+   "date": "2025-12-30",
+   "doi": "10.18718/81781.50",
+   "url": "https://doi.org/10.18718/81781.50",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "The Common Problem of Bad Controls in Tests of the Linguistic Savings Hypothesis. A Comment on Ayres et al. (PNAS, 2023) and related literature",
+   "authors": [
+    "Paul Clist"
+   ],
+   "date": "2025-12-18",
+   "doi": "10.18718/81781.48",
+   "url": "https://doi.org/10.18718/81781.48",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Languages and Future-oriented Economic Behavior— Experimental Evidence for Causal Effects. A Reply to Clist (Journal of Comments and Replications in Economics, 2025)",
+   "authors": [
+    "Ian Ayres",
+    "Tamar Kricheli Katz",
+    "Tali Regev"
+   ],
+   "date": "2025-12-18",
+   "doi": "10.18718/81781.49",
+   "url": "https://doi.org/10.18718/81781.49",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Not All Oil Price Shocks Are Alike. A Replication Study of Kilian (American Economic Review, 2009)",
+   "authors": [
+    "Rich Ryan",
+    "Nyakundi Michieka"
+   ],
+   "date": "2025-12-05",
+   "doi": "10.18718/81781.47",
+   "url": "https://doi.org/10.18718/81781.47",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Bitcoin Adoption and Beliefs in Canada: A Reply to Van Hove (Journal of Comments and Replications in Economics, 2025)",
+   "authors": [
+    "Daniela Balutel",
+    "Christopher Henry",
+    "Jorge Vásquez",
+    "Marcel C. Voia"
+   ],
+   "date": "2025-12-05",
+   "doi": "10.18718/81781.46",
+   "url": "https://doi.org/10.18718/81781.46",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Bitcoin Adoption and Beliefs in Canada A Comment on Daniela Balutel, Christopher Henry, Jorge Vásquez, and Marcel Voia (Canadian Journal of Economics, 2022)",
+   "authors": [
+    "Leo Van Hove"
+   ],
+   "date": "2025-12-05",
+   "doi": "10.18718/81781.45",
+   "url": "https://doi.org/10.18718/81781.45",
+   "type": null
+  },
+  {
+   "journal": "r2",
+   "title": "A Community Model for Rigorous and Inclusive Scholarship: Inaugural Editorial of Replication Research (R2)",
+   "authors": [
+    "Lukas Röseler",
+    "Lukas Wallrich",
+    "Susanne Adler",
+    "Prince Oppong Boakye",
+    "Thomas Rhys Evans",
+    "Janik Goltermann",
+    "Tamarinde Haven",
+    "Jan Horstmann",
+    "Max Korbmacher",
+    "Miriam Müller",
+    "Steven Verheyen",
+    "Ingmar Visser",
+    "Flavio Azevedo"
+   ],
+   "date": "2025-10-20",
+   "doi": "10.17879/replicationresearch-2025-9022",
+   "url": "https://doi.org/10.17879/replicationresearch-2025-9022",
+   "type": "Editorial Communication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Public Infrastructure and Economic Development: Evidence from Postal Systems A Replication Study of Rogowski et al. (American Journal of Political Science, 2022)",
+   "authors": [
+    "Florian Neubauer",
+    "Julian Rose",
+    "Jörg Ankel-Peters"
+   ],
+   "date": "2025-10-17",
+   "doi": "10.18718/81781.44",
+   "url": "https://doi.org/10.18718/81781.44",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Why don’t Firms Hire Young Workers during Recessions? A Replication of Forsythe (The Economic Journal, 2022)",
+   "authors": [
+    "Jonathan Créchet",
+    "Jing Cui",
+    "Barbara Sadaba",
+    "Antoine Sawyer"
+   ],
+   "date": "2025-07-28",
+   "doi": "10.18718/81781.43",
+   "url": "https://doi.org/10.18718/81781.43",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Model of thalamocortical slow-wave sleep oscillations and transitions to activated states",
+   "authors": [
+    "Mathilde Reynes",
+    "Amélie Aussel"
+   ],
+   "date": "2025-07",
+   "doi": "10.5281/zenodo.16529268",
+   "url": "https://doi.org/10.5281/zenodo.16529268",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Learning Fair Graph Representations via Automated Data Augmentations",
+   "authors": [
+    "Max Belitsky",
+    "Filipe Laitenberger",
+    "Denys Sheremet",
+    "Nordin Belkacemi"
+   ],
+   "date": "2025-07",
+   "doi": "10.5281/zenodo.16374814",
+   "url": "https://doi.org/10.5281/zenodo.16374814",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Drivers of Youth Outsiderness in European Labour Markets. A Comment on Marques and Salavisa (Socio-Economic Review, 2017)",
+   "authors": [
+    "Svenja Flechtner",
+    "Torsten Heinrich"
+   ],
+   "date": "2025-06-16",
+   "doi": "10.18718/81781.42",
+   "url": "https://doi.org/10.18718/81781.42",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Does Education Improve Cognitive Performance Four Decades After School Completion? A Replication Study of Nicole Schneeweis, Vegard Skirbekk and Rudolf Winter-Ebmer (Demography, 2014)",
+   "authors": [
+    "Beatrice Baaba Tawiah",
+    "Valentin Schiele"
+   ],
+   "date": "2025-05-05",
+   "doi": "10.18718/81781.41",
+   "url": "https://doi.org/10.18718/81781.41",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "The Slave Trade and the Origins of Mistrust in Africa. A Replication Study of Nunn and Wantchekon (2011)",
+   "authors": [
+    "Giulio Zanella"
+   ],
+   "date": "2025-04-16",
+   "doi": "10.18718/81781.40",
+   "url": "https://doi.org/10.18718/81781.40",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] The Discriminative Kalman Filter for Bayesian Filtering with Nonlinear and Non-Gaussian Observation Models",
+   "authors": [
+    "Josue Casco-Rodriguez",
+    "Caleb Kemere",
+    "Richard G. Baraniuk"
+   ],
+   "date": "2025-04",
+   "doi": "10.5281/zenodo.15172014",
+   "url": "https://doi.org/10.5281/zenodo.15172014",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Network Deconvolution",
+   "authors": [
+    "Rochana R. Obadage",
+    "Kumushini Thennakoon",
+    "Sarah M. Rajtmajer",
+    "Jian Wu"
+   ],
+   "date": "2025-04",
+   "doi": "10.5281/zenodo.15321683",
+   "url": "https://doi.org/10.5281/zenodo.15321683",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] An anatomically constrained neural network model of fear conditioning",
+   "authors": [
+    "Luc Caspar",
+    "Roger K. Moore"
+   ],
+   "date": "2025-04",
+   "doi": "10.5281_zenodo.11077385",
+   "url": "https://doi.org/10.5281_zenodo.11077385",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning",
+   "authors": [
+    "Disha Maheshwari"
+   ],
+   "date": "2025-03",
+   "doi": "10.5281/zenodo.14964875",
+   "url": "https://doi.org/10.5281/zenodo.14964875",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] When Does Label Smoothing Help?",
+   "authors": [
+    "Sven Dominik Wagner",
+    "Yann Philipp Kurowski",
+    "Leonhard Moritz Holländer",
+    "Tobias Uelwer"
+   ],
+   "date": "2025-02",
+   "doi": "10.5281/zenodo.14953654",
+   "url": "https://doi.org/10.5281/zenodo.14953654",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Erratum",
+   "authors": [
+    "JCRE Editorial Team"
+   ],
+   "date": "2024-11-09",
+   "doi": "10.18718/81781.39",
+   "url": "https://doi.org/10.18718/81781.39",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. A Replication Study of Epley & Gilovich (Journal of Behavioral Decision Making, 2005; Psychological Science, 2006)",
+   "authors": [
+    "Lukas Röseler",
+    "Hannah L. Bögler",
+    "Lisa Koßmann",
+    "Sabine M. Krueger",
+    "Sabrina L. C. Bickenbach",
+    "Ricarda Bühler",
+    "Jasmin Della Guardia",
+    "Lisa-Marie A. Köppel",
+    "Jarl Möhring",
+    "Susanne Ponader",
+    "Konstantin Roßmaier",
+    "Jessica Sing"
+   ],
+   "date": "2024-10-09",
+   "doi": "10.18718/81781.38",
+   "url": "https://doi.org/10.18718/81781.38",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Omitted Variable Bias and Wartime Legacies. A Reply to Malesky and Nguyen (Journal of Comments and Replications in Economics, 2024)",
+   "authors": [
+    "Joan Barceló"
+   ],
+   "date": "2024-09-04",
+   "doi": "10.18718/81781.37",
+   "url": "https://doi.org/10.18718/81781.37",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Does Proactive Policing Really Increase Major Crime? A Replication Study of Sullivan and O’Keeffe (Nature Human Behaviour, 2017)",
+   "authors": [
+    "Aaron Chalfin",
+    "David Mitre-Becerril",
+    "Morgan C. Williams"
+   ],
+   "date": "2024-08-07",
+   "doi": "10.18718/81781.36",
+   "url": "https://doi.org/10.18718/81781.36",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Historical Communist Party Strength and Modern Party Loyalty. A Replication Study of Barceló (PNAS, 2021)",
+   "authors": [
+    "Edmund J. Malesky",
+    "Trung-Anh Nguyen"
+   ],
+   "date": "2024-06-18",
+   "doi": "10.18718/81781.35",
+   "url": "https://doi.org/10.18718/81781.35",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Trends in U.S. Wage Inequality: Revising the Revisionists. A Replication Study of Autor, Katz, and Kearney (The Review of Economics and Statistics, 2008)",
+   "authors": [
+    "Corinne Stephenson"
+   ],
+   "date": "2024-05-15",
+   "doi": "10.18718/81781.34",
+   "url": "https://doi.org/10.18718/81781.34",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Migration, Diversity, and Economic Growth. A Replication Study of Bove and Elia (World Development, 2017)",
+   "authors": [
+    "Bianca Balsimelli Ghelli",
+    "Luigi Ventura"
+   ],
+   "date": "2024-04-02",
+   "doi": "10.18718/81781.33",
+   "url": "https://doi.org/10.18718/81781.33",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Market Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al. (American Economic Review, 2022)",
+   "authors": [
+    "Ryan McWay",
+    "Karim Nchare",
+    "Pu Sun"
+   ],
+   "date": "2024-03-12",
+   "doi": "10.18718/81781.32",
+   "url": "https://doi.org/10.18718/81781.32",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Why You Should Never Use the Hodrick-Prescott Filter. A Comment on Hamilton (The Review of Economics and Statistics, 2018)",
+   "authors": [
+    "Alban Moura"
+   ],
+   "date": "2024-02-20",
+   "doi": "10.18718/81781.31",
+   "url": "https://doi.org/10.18718/81781.31",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "The Long-Term Effects of Measles Vaccination on Earnings and Employment. A Replication Study of Atwood (American Economic Journal: Economic Policy, 2022)",
+   "authors": [
+    "Mara Barschkett",
+    "Mathias Huebener",
+    "Andreas Leibing",
+    "Jan Marcus",
+    "Shushanik Margaryan"
+   ],
+   "date": "2023-12-01",
+   "doi": "10.18718/81781.30",
+   "url": "https://doi.org/10.18718/81781.30",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Velho and Legrand (2009) - Accuracy Study and Improvement of Network Simulation in the SimGrid Framework",
+   "authors": [
+    "Arnaud Legrand",
+    "Pedro Velho"
+   ],
+   "date": "2023-12",
+   "doi": "10.5281/zenodo.10275726",
+   "url": "https://doi.org/10.5281/zenodo.10275726",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Inter-areal Balanced Amplification Enhances Signal Propagation in a Large-Scale Circuit Model of the Primate Cortex",
+   "authors": [
+    "Vinicius Lima",
+    "Renan O. Shimoura",
+    "Nilton L. Kamiji",
+    "Demian Battaglia",
+    "Antonio C. Roque"
+   ],
+   "date": "2023-12",
+   "doi": "10.5281/zenodo.10257800",
+   "url": "https://doi.org/10.5281/zenodo.10257800",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Biodiversity of plankton by species oscillations and chaos",
+   "authors": [
+    "Guillaume Doyen",
+    "Coralie Picoche",
+    "Frédéric Barraquand"
+   ],
+   "date": "2023-12",
+   "doi": "10.5281/zenodo.10371655",
+   "url": "https://doi.org/10.5281/zenodo.10371655",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Knowledge Transfers from Multinational to Domestic Firms: Evidence from Worker Mobility. A Replication Study of Poole (Review of Economics and Statistics, 2013)",
+   "authors": [
+    "Stefanie A. Haller",
+    "Eoin T. Flaherty",
+    "Ragnhild Balsvik"
+   ],
+   "date": "2023-11-21",
+   "doi": "10.18718/81781.29",
+   "url": "https://doi.org/10.18718/81781.29",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re]Simulating socioeconomic-based affirmative action",
+   "authors": [
+    "Tristan Allard",
+    "Louis Béziaud",
+    "Sébastien Gambs"
+   ],
+   "date": "2023-11",
+   "doi": "10.5281/zenodo.10255347",
+   "url": "https://doi.org/10.5281/zenodo.10255347",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Culture: An Empirical Investigation of Beliefs, Work, and Fertility. A Verification and Reproduction of Fernández and Fogli (American Economic Journal: Macroeconomics, 2009)",
+   "authors": [
+    "Victor Gay"
+   ],
+   "date": "2023-10-16",
+   "doi": "10.18718/81781.28",
+   "url": "https://doi.org/10.18718/81781.28",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Re] Reproducibility study of ‘Proto2Proto: Can you recognize the car, the way I do?’",
+   "authors": [
+    "David Bikker",
+    "Gerson de Kleuver",
+    "Wenhua Hu",
+    "Bram Veenman"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173705",
+   "url": "https://doi.org/10.5281/zenodo.8173705",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Re] G-Mixup: Graph Data Augmentation for Graph Classification",
+   "authors": [
+    "Dylan Cordaro",
+    "Shelby Cox",
+    "Yiman Ren",
+    "Teresa Yu"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173737",
+   "url": "https://doi.org/10.5281/zenodo.8173737",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Re] A Reproducibility Case Study of “Fairness Guarantees under Demographic Shift”",
+   "authors": [
+    "Dennis Agafonov",
+    "Jelke Matthijsse",
+    "Noa Nonkes",
+    "Zjos van de Sande"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8206607",
+   "url": "https://doi.org/10.5281/zenodo.8206607",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Variational Neural Cellular Automata",
+   "authors": [
+    "Albert Aillet",
+    "Simon Sondén"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173729",
+   "url": "https://doi.org/10.5281/zenodo.8173729",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] VAE Approximation Error: ELBO and Exponential Families",
+   "authors": [
+    "Volodymyr Kyrylov",
+    "Navdeep Singh Bedi",
+    "Qianbo Zang"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173745",
+   "url": "https://doi.org/10.5281/zenodo.8173745",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducing FairCal: Fairness Calibration for Face Verification",
+   "authors": [
+    "Jip Greven",
+    "Simon Stallinga",
+    "Zirk Seljee"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173719",
+   "url": "https://doi.org/10.5281/zenodo.8173719",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility study of ”Label-Free Explainability for Unsupervised Models”",
+   "authors": [
+    "Gergely Papp",
+    "Julius Wagenbach",
+    "Laurens Jans de Vries",
+    "Niklas Mather"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173711",
+   "url": "https://doi.org/10.5281/zenodo.8173711",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility study of ``Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention''",
+   "authors": [
+    "Erik Buis",
+    "Sebastiaan Dijkstra",
+    "Bram Heijermans"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173713",
+   "url": "https://doi.org/10.5281/zenodo.8173713",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility study of Joint Multisided Exposure Fairness for Recommendation",
+   "authors": [
+    "Alessia Hu",
+    "Oline Ranum",
+    "Chrysoula Pozrikidou",
+    "Miranda Zhou"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173698",
+   "url": "https://doi.org/10.5281/zenodo.8173698",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study: Label-Free Explainability for Unsupervised Models",
+   "authors": [
+    "Sławomir Garcarz",
+    "Andreas Giorkatzi",
+    "Ana Ivășchescu",
+    "Theodora-Mara Pîslar"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173688",
+   "url": "https://doi.org/10.5281/zenodo.8173688",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of ”Latent Space Smoothing for Individually Fair Representations”",
+   "authors": [
+    "Didier Merk",
+    "Denny Smit",
+    "Boaz Beukers",
+    "Tsatsral Mendsuren"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173725",
+   "url": "https://doi.org/10.5281/zenodo.8173725",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of ”Focus On The Common Good: Group Distributional Robustness Follows”",
+   "authors": [
+    "Walter Simoncini",
+    "Ioanna Gogou",
+    "Marta Freixo Lopes",
+    "Ron Kremer"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173707",
+   "url": "https://doi.org/10.5281/zenodo.8173707",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of “Label-Free Explainability for Unsupervised Models”",
+   "authors": [
+    "Valentinos Pariza",
+    "Avik Pal",
+    "Madhura Pawar",
+    "Quim Serra Faber"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173674",
+   "url": "https://doi.org/10.5281/zenodo.8173674",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of Behavior Transformers",
+   "authors": [
+    "Skander Moalla",
+    "Manuel Madeira",
+    "Lorenzo Riccio",
+    "Joonhyung Lee"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173757",
+   "url": "https://doi.org/10.5281/zenodo.8173757",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of 'CartoonX: Cartoon Explanations of Image Classifiers'",
+   "authors": [
+    "Sina Taslimi",
+    "Luke Chin A Foeng",
+    "Pratik Kayal",
+    "Aditya Prakash Patra",
+    "Aditya Prakash Patra"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173721",
+   "url": "https://doi.org/10.5281/zenodo.8173721",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of \"Quantifying Societal Bias Amplification in Image Captioning\"",
+   "authors": [
+    "Farrukh Baratov",
+    "Göksenin Yüksel",
+    "Darie Petcu",
+    "Jan Bakker"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173715",
+   "url": "https://doi.org/10.5281/zenodo.8173715",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] RELIC: Reproducibility and Extension on LIC metric in quantifying bias in captioning models",
+   "authors": [
+    "Paula Antequera",
+    "Egoitz Gonzalez",
+    "Marta Grasa",
+    "Martijn van Raaphorst"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173741",
+   "url": "https://doi.org/10.5281/zenodo.8173741",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Pure Noise to the Rescue of Insufficient Data",
+   "authors": [
+    "Seungjae Ryan Lee",
+    "Seungmin Brian Lee"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173763",
+   "url": "https://doi.org/10.5281/zenodo.8173763",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On the reproducibility of \"CrossWalk: Fairness-Enhanced Node Representation Learning\"",
+   "authors": [
+    "Eric Zila",
+    "Jonathan Gerbscheid",
+    "Luc Sträter",
+    "Kieron Kretschmar"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173717",
+   "url": "https://doi.org/10.5281/zenodo.8173717",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On the Reproducibility of CartoonX",
+   "authors": [
+    "Elias Dubbeldam",
+    "Aniek Eijpe",
+    "Jona Ruthardt",
+    "Robin Sasse"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173672",
+   "url": "https://doi.org/10.5281/zenodo.8173672",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On the Reproducibility of \"FairCal: Fairness Calibration for Face Verification\"",
+   "authors": [
+    "Marga Don",
+    "Satchit Chatterji",
+    "Milena Kapralova",
+    "Ryan Amaudruz"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173686",
+   "url": "https://doi.org/10.5281/zenodo.8173686",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On Explainability of Graph Neural Networks via Subgraph Explorations",
+   "authors": [
+    "Yannik Mahlau",
+    "Leonie Kayser",
+    "Lukas Berg"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173753",
+   "url": "https://doi.org/10.5281/zenodo.8173753",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Numerical influence of ReLU'(0) on backpropagation",
+   "authors": [
+    "Tommaso Martorella",
+    "Héctor Manuel Ramirez Contreras",
+    "Daniel Cerezo García"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173692",
+   "url": "https://doi.org/10.5281/zenodo.8173692",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Masked Autoencoders Are Small Scale Vision Learners: A Reproduction Under Resource Constraints",
+   "authors": [
+    "Athanasios Charisoudis",
+    "Simon Ekman von Huth",
+    "Emil Jansson"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173751",
+   "url": "https://doi.org/10.5281/zenodo.8173751",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Label-Free Explainability for Unsupervised Models",
+   "authors": [
+    "Eric Robin Langezaal",
+    "Jesse Belleman",
+    "Tim Veenboer",
+    "Joeri Noorthoek"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173656",
+   "url": "https://doi.org/10.5281/zenodo.8173656",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Intriguing Properties of Contrastive Losses",
+   "authors": [
+    "Luca Marini",
+    "Mohamad Nabeel",
+    "Alexandre Loiko"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173662",
+   "url": "https://doi.org/10.5281/zenodo.8173662",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] If you like Shapley, then you'll love the core",
+   "authors": [
+    "Anes Benmerzoug",
+    "Miguel de Benito Delgado"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173733",
+   "url": "https://doi.org/10.5281/zenodo.8173733",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning",
+   "authors": [
+    "Jicheng Yuan",
+    "Danh Le-Phuoc"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173666",
+   "url": "https://doi.org/10.5281/zenodo.8173666",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Hierarchical Shrinkage: Improving the Accuracy and Interpretability of Tree-Based Methods",
+   "authors": [
+    "Domen Mohorčič",
+    "David Ocepek"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173696",
+   "url": "https://doi.org/10.5281/zenodo.8173696",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] G-Mixup: Graph Data Augmentation for Graph Classification",
+   "authors": [
+    "Ermin Omeragić",
+    "Vuk Đuranović"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173650",
+   "url": "https://doi.org/10.5281/zenodo.8173650",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Fairness Guarantees under Demographic Shift",
+   "authors": [
+    "Valentin Leonhard Buchner",
+    "Philip Onno Olivier Schutte",
+    "Yassin Ben Allal",
+    "Hamed Ahadi"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173680",
+   "url": "https://doi.org/10.5281/zenodo.8173680",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] FOCUS: Flexible Optimizable Counterfactual Explanations for Tree Ensembles",
+   "authors": [
+    "Kyosuke Morita"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173678",
+   "url": "https://doi.org/10.5281/zenodo.8173678",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Exploring the Role of Grammar and Word Choice in Bias Toward African American English (AAE) in Hate Speech Classification",
+   "authors": [
+    "Priyanka Bose",
+    "Chandra Shekhar Pandey",
+    "Fraida Fund"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173739",
+   "url": "https://doi.org/10.5281/zenodo.8173739",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Exploring the Representation of Word Meanings in Context",
+   "authors": [
+    "Matteo Brivio",
+    "Çağrı Çöltekin"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173658",
+   "url": "https://doi.org/10.5281/zenodo.8173658",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Exploring the Explainability of Bias in Image Captioning Models",
+   "authors": [
+    "Marten Türk",
+    "Luyang Busser",
+    "Daniël van Dijk",
+    "Max J.A. Bosch"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173703",
+   "url": "https://doi.org/10.5281/zenodo.8173703",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization",
+   "authors": [
+    "Mert Erkol",
+    "Furkan Kınlı",
+    "Barış Özcan",
+    "Furkan Kıraç"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173652",
+   "url": "https://doi.org/10.5281/zenodo.8173652",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking",
+   "authors": [
+    "Sean McLeish",
+    "Long Tran-Thanh"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173654",
+   "url": "https://doi.org/10.5281/zenodo.8173654",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Easy Bayesian Transfer Learning with Informative Priors",
+   "authors": [
+    "Martin Špendl",
+    "Klementina Pirc"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173668",
+   "url": "https://doi.org/10.5281/zenodo.8173668",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] DialSummEval - Evaluation of automatic summarization evaluation metrics",
+   "authors": [
+    "Patrick Camara",
+    "Mojca Kloos",
+    "Vasiliki Kyrmanidi",
+    "Agnieszka Kluska",
+    "Rorick Terlou",
+    "Lea Krause"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173682",
+   "url": "https://doi.org/10.5281/zenodo.8173682",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] CrossWalk: Fairness-enhanced Node Representation Learning",
+   "authors": [
+    "Luca Pantea",
+    "Andrei Blahovici"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173749",
+   "url": "https://doi.org/10.5281/zenodo.8173749",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] CrossWalk Fairness-enhanced Node Representation Learning",
+   "authors": [
+    "Gijs Joppe Moens",
+    "Job de Witte",
+    "Tobias Pieter Göbel",
+    "Meggie van den Oever"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173747",
+   "url": "https://doi.org/10.5281/zenodo.8173747",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Bandit Theory and Thompson Sampling-guided Directed Evolution for Sequence Optimization",
+   "authors": [
+    "Luka Žontar"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173664",
+   "url": "https://doi.org/10.5281/zenodo.8173664",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Reproduction of Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification",
+   "authors": [
+    "Victor Livernoche",
+    "Vidya Sujaya"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173735",
+   "url": "https://doi.org/10.5281/zenodo.8173735",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Replication Study of Compositional Generalization Works on Semantic Parsing",
+   "authors": [
+    "Kaiser Sun",
+    "Adina Williams",
+    "Dieuwke Hupkes"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173759",
+   "url": "https://doi.org/10.5281/zenodo.8173759",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] \"Towards Understanding Grokking\"",
+   "authors": [
+    "Shabalin Alexander",
+    "Sadrtdinov Ildus",
+    "Shabalin Evgeniy"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8173755",
+   "url": "https://doi.org/10.5281/zenodo.8173755",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "ML Reproducibility Challenge 2022",
+   "authors": [
+    "Koustuv Sinha",
+    "Maurits Bleeker",
+    "Samarth Bhargav",
+    "Jessica Zosa Forde",
+    "Sharath Chandra Raparthy",
+    "Jesse Dodge",
+    "Joelle Pineau",
+    "Robert Stojnic"
+   ],
+   "date": "2023-07",
+   "doi": "10.5281/zenodo.8200058",
+   "url": "https://doi.org/10.5281/zenodo.8200058",
+   "type": "Editorial"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Object Detection Meets Knowledge Graphs",
+   "authors": [
+    "Jarl Lemmens",
+    "Pavol Jancura",
+    "Gijs Dubbelman",
+    "Hala Elrofai"
+   ],
+   "date": "2023-03",
+   "doi": "10.5281/zenodo.7800679",
+   "url": "https://doi.org/10.5281/zenodo.7800679",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Giving and taking in dictator games – differences by gender? A replication study of Chowdhury et al. (Southern Economic Journal, 2017)",
+   "authors": [
+    "Korbinian Von Blanckenburg",
+    "Eva Tebbe",
+    "Anja Iseke"
+   ],
+   "date": "2023-02-17",
+   "doi": "10.18718/81781.27",
+   "url": "https://doi.org/10.18718/81781.27",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Groups of diverse problem-solvers outperform groups of highest-ability problem-solvers - most of the time",
+   "authors": [
+    "Lukas Wallrich"
+   ],
+   "date": "2022-12",
+   "doi": "10.5281/zenodo.7484072",
+   "url": "https://doi.org/10.5281/zenodo.7484072",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "A Proposed Hybrid Effect Size Plus p-Value Criterion. A Comment on Goodman et al. (The American Statistician, 2019)",
+   "authors": [
+    "Peter Pütz",
+    "Arne Kramer-Sunderbrink",
+    "Robin Tim Dreher",
+    "Leona Hoffmann",
+    "Robin Werner"
+   ],
+   "date": "2022-10-21",
+   "doi": "10.18718/81781.26",
+   "url": "https://doi.org/10.18718/81781.26",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Exit, Voice and Political Change: Evidence from Swedish Mass Migration to the United States. A Comment on Karadja and Prawitz (Journal of Political Economy, 2019)",
+   "authors": [
+    "Per Pettersson-Lidbom"
+   ],
+   "date": "2022-08-03",
+   "doi": "10.18718/81781.25",
+   "url": "https://doi.org/10.18718/81781.25",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Multi-Functional Synthetic Gene Network",
+   "authors": [
+    "Gabriel Baiocchi de Sant'Anna",
+    "Mateus Favarin Costa"
+   ],
+   "date": "2022-07",
+   "doi": "10.5281/zenodo.6801765",
+   "url": "https://doi.org/10.5281/zenodo.6801765",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Re] Reproducing 'Fair Selective Classification via Sufficiency'",
+   "authors": [
+    "Nils Peters",
+    "Joy Crosbie",
+    "Rachel vant́ Hull",
+    "Marius Strampel"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574691",
+   "url": "https://doi.org/10.5281/zenodo.6574691",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Re] Reproducibility Study of 'Exacerbating Algorithmic Bias through Fairness Attacks'",
+   "authors": [
+    "Isa-Ali Kirca",
+    "Daniël Hamerslag",
+    "Afra Baas",
+    "Juno Prent"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574663",
+   "url": "https://doi.org/10.5281/zenodo.6574663",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Re] Hate Speech Detection based on Sentiment Knowledge Sharing",
+   "authors": [
+    "Matteo Brivio",
+    "Çağrı Çöltekin"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574639",
+   "url": "https://doi.org/10.5281/zenodo.6574639",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Weakly-Supervised Semantic Segmentation via Transformer Explainability",
+   "authors": [
+    "Ioannis Athanasiadis",
+    "Georgios Moschovis",
+    "Alexander Tuoma"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574631",
+   "url": "https://doi.org/10.5281/zenodo.6574631",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Value Alignment Verification",
+   "authors": [
+    "Siba Smarak Panigrahi",
+    "Sohan Patnaik"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574687",
+   "url": "https://doi.org/10.5281/zenodo.6574687",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Understanding Self-Supervised Learning Dynamics without Contrastive Pairs",
+   "authors": [
+    "Tobias Höppe",
+    "Agnieszka Miszkurka",
+    "Dennis Bogatov Wilkman"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574659",
+   "url": "https://doi.org/10.5281/zenodo.6574659",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Transparent Object Tracking Benchmark",
+   "authors": [
+    "Žiga Trojer"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574707",
+   "url": "https://doi.org/10.5281/zenodo.6574707",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Thompson Sampling for Bandits with Clustered Arms",
+   "authors": [
+    "Andraž De Luisa"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574671",
+   "url": "https://doi.org/10.5281/zenodo.6574671",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Strategic classification made practical: reproduction",
+   "authors": [
+    "Guilly Kolkman",
+    "Jan Athmer",
+    "Alex Labro",
+    "Maksymilian Kulicki"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574665",
+   "url": "https://doi.org/10.5281/zenodo.6574665",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Solving Phase Retrieval With a Learned Reference",
+   "authors": [
+    "Nick Rucks",
+    "Tobias Uelwer",
+    "Stefan Harmeling"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574695",
+   "url": "https://doi.org/10.5281/zenodo.6574695",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Robust Counterfactual Explanations on Graph Neural Networks",
+   "authors": [
+    "Romana Isabelle Wilschut",
+    "Thomas Paul Alexandre Wiggers",
+    "Roman Sebastiaan Oort",
+    "Thomas Arthur van Orden"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574715",
+   "url": "https://doi.org/10.5281/zenodo.6574715",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproductive pair correlations and the clustering of organisms",
+   "authors": [
+    "Coralie Picoche",
+    "William R. Young",
+    "Frederic Barraquand"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6546488",
+   "url": "https://doi.org/10.5281/zenodo.6546488",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproduction and Extension of \"Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation\"",
+   "authors": [
+    "Erica Eaton",
+    "Pirouz Naghavi"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574651",
+   "url": "https://doi.org/10.5281/zenodo.6574651",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproduction Study of Variational Fair Clustering",
+   "authors": [
+    "Floor Eijkelboom",
+    "Mark Fokkema",
+    "Anna Lau",
+    "Luuk Verheijen"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574653",
+   "url": "https://doi.org/10.5281/zenodo.6574653",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study: Comparing Rewinding and Fine-tuning in Neural Network Pruning",
+   "authors": [
+    "Szymon Mikler"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574679",
+   "url": "https://doi.org/10.5281/zenodo.6574679",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study of “Counterfactual Generative Networks”",
+   "authors": [
+    "Piyush Bagad",
+    "Paul Hilders",
+    "Jesse Maas",
+    "Danilo de Goede"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574635",
+   "url": "https://doi.org/10.5281/zenodo.6574635",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Study - SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition",
+   "authors": [
+    "Maarten Burger",
+    "Kaya ter Burg",
+    "Sam Titarsolej",
+    "Selina Jasmin Khan"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574641",
+   "url": "https://doi.org/10.5281/zenodo.6574641",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility Report: Contrastive Learning of Socially-aware Motion Representations",
+   "authors": [
+    "Roopsa Sen",
+    "Sidharth Sinha",
+    "Animesh Jha",
+    "Parv Maheshwari"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574697",
+   "url": "https://doi.org/10.5281/zenodo.6574697",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication study of 'Explaining in Style: Training a GAN to explain a classifier in StyleSpace'",
+   "authors": [
+    "Evaline Bosch",
+    "Rutger Ettes",
+    "Daan Korporaal",
+    "Gijs van Meer"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574667",
+   "url": "https://doi.org/10.5281/zenodo.6574667",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication study of 'Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling'",
+   "authors": [
+    "Vera Neplenbroek",
+    "Sabijn Perdijk",
+    "Victor Prins"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574683",
+   "url": "https://doi.org/10.5281/zenodo.6574683",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication study of \"Privacy-preserving Collaborative Learning\"",
+   "authors": [
+    "Karolina Drabent",
+    "Stefan Wijnja",
+    "Thijs Sluijter",
+    "Konrad Bereda"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574647",
+   "url": "https://doi.org/10.5281/zenodo.6574647",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication Study of DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks",
+   "authors": [
+    "Velizar Shulev",
+    "Paul Verhagen",
+    "Shuai Wang",
+    "Jennifer Zhuge"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574711",
+   "url": "https://doi.org/10.5281/zenodo.6574711",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication Study of \"Fairness and Bias in Online Selection\"",
+   "authors": [
+    "Diego van der Mast",
+    "Soufiane Ben Haddou",
+    "Jacky Chu",
+    "Jaap Stefels"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574673",
+   "url": "https://doi.org/10.5281/zenodo.6574673",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication Study of \"Fairness and Bias in Online Selection\"",
+   "authors": [
+    "Roxana Petcu",
+    "Pim Praat",
+    "Jeroen Wijnen",
+    "Manolis Rerres"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574689",
+   "url": "https://doi.org/10.5281/zenodo.6574689",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replicating and Improving GAN2Shape Through Novel Shape Priors and Training Steps",
+   "authors": [
+    "Alessio Galatolo",
+    "Alfred Nilsson"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574685",
+   "url": "https://doi.org/10.5281/zenodo.6574685",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Projection-based Algorithm for Updating the TruncatedSVD of Evolving Matrices",
+   "authors": [
+    "Andy Chen",
+    "Shion Matsumoto",
+    "Rohan Sinha Varma"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574675",
+   "url": "https://doi.org/10.5281/zenodo.6574675",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Privacy-preserving collaborative learning with automatic transformation search",
+   "authors": [
+    "Alfonso Taboada Warmerdam",
+    "Lodewijk Loerakker",
+    "Lucas Meijer",
+    "Ole Nissen"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574713",
+   "url": "https://doi.org/10.5281/zenodo.6574713",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Nondeterminism and Instability in Neural Network Optimization",
+   "authors": [
+    "Waqas Ahmed",
+    "Sheeba Samuel"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574623",
+   "url": "https://doi.org/10.5281/zenodo.6574623",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation",
+   "authors": [
+    "Doğa Yılmaz",
+    "Furkan Kınlı",
+    "Barış Özcan",
+    "Furkan Kıraç"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574719",
+   "url": "https://doi.org/10.5281/zenodo.6574719",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Learning to count everything",
+   "authors": [
+    "Maša Kljun",
+    "Matija Teršek",
+    "Domen Vreš"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574703",
+   "url": "https://doi.org/10.5281/zenodo.6574703",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Learning Unknown from Correlations: Graph Neural Network for Inter-novel-protein Interaction Prediction",
+   "authors": [
+    "Urša Zrimšek"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574721",
+   "url": "https://doi.org/10.5281/zenodo.6574721",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Graph Edit Networks",
+   "authors": [
+    "Vid Stropnik",
+    "Maruša Oražem"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574701",
+   "url": "https://doi.org/10.5281/zenodo.6574701",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] GANSpace: Discovering Interpretable GAN Controls",
+   "authors": [
+    "Vishnu Asutosh Dasu",
+    "Midhush Manohar T.K."
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574645",
+   "url": "https://doi.org/10.5281/zenodo.6574645",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] From goals, waypoints and paths to longterm human trajectory forecasting",
+   "authors": [
+    "Abhishek Shukla",
+    "Sourya Roy",
+    "Yogesh Chawla",
+    "Avi Amalanshu",
+    "Shubhendu Pandey",
+    "Rudransh Agrawal",
+    "Aditya Uppal",
+    "Viswesh N",
+    "Pradipto Mondal",
+    "Anubhab Dasgupta",
+    "Debashis Chakravarty"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574699",
+   "url": "https://doi.org/10.5281/zenodo.6574699",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Explaining in Style: Training a GAN to explain a classifier in StyleSpace",
+   "authors": [
+    "Chase van de Geijn",
+    "Victor Kyriacou",
+    "Irene Papadopoulou",
+    "Vasiliki Vasileiou"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574655",
+   "url": "https://doi.org/10.5281/zenodo.6574655",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Explaining in Style: Training a GAN to explain a classifier in StyleSpace",
+   "authors": [
+    "Noah van der Vleuten",
+    "Tadija Radusinović",
+    "Rick Akkerman",
+    "Meilina Reksoprodjo"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574709",
+   "url": "https://doi.org/10.5281/zenodo.6574709",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Exacerbating Algorithmic Bias through Fairness Attacks",
+   "authors": [
+    "Matteo Tafuro",
+    "Andrea Lombardo",
+    "Tin Hadži Veljković",
+    "Lasse Becker-Czarnetzki"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574669",
+   "url": "https://doi.org/10.5281/zenodo.6574669",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Exacerbating Algorithmic Bias through Fairness Attacks",
+   "authors": [
+    "Angelos Nalmpantis",
+    "Apostolos Panagiotopoulos",
+    "John Gkountouras",
+    "Konstantinos Papakostas"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574681",
+   "url": "https://doi.org/10.5281/zenodo.6574681",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Domain Generalization using Causal Matching",
+   "authors": [
+    "Richard Jiles",
+    "Mohna Chakraborty"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574661",
+   "url": "https://doi.org/10.5281/zenodo.6574661",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Does Self-Supervision Always Improve Few-Shot Learning?",
+   "authors": [
+    "Arjun Ashok",
+    "Haswanth Aekula"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574629",
+   "url": "https://doi.org/10.5281/zenodo.6574629",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Differentiable Spatial Planning using Transformers",
+   "authors": [
+    "Rohit Ranjan",
+    "Himadri Bhakta",
+    "Animesh Jha",
+    "Parv Maheshwari"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574693",
+   "url": "https://doi.org/10.5281/zenodo.6574693",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling",
+   "authors": [
+    "Sarah de Boer",
+    "Radu Alexandru Cosma",
+    "Lukas Knobel",
+    "Yeskendir Koishekenov",
+    "Benjamin Shaffrey"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574637",
+   "url": "https://doi.org/10.5281/zenodo.6574637",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Counterfactual Generative Networks",
+   "authors": [
+    "Ankit Ankit",
+    "Sameer Ambekar",
+    "Baradwaj Varadharajan",
+    "Mark Alence"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574625",
+   "url": "https://doi.org/10.5281/zenodo.6574625",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Badder Seeds: Reproducing the Evaluation of Lexical Methods for Bias Measurement",
+   "authors": [
+    "Jille van der Togt",
+    "Lea Tiyavorabun",
+    "Matteo Rosati",
+    "Giulio Starace"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574705",
+   "url": "https://doi.org/10.5281/zenodo.6574705",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation",
+   "authors": [
+    "Aryan Mehta",
+    "Karan Uppal",
+    "Kaushal Jadhav",
+    "Monish Natarajan",
+    "Mradul Agrawal",
+    "Debashish Chakravarty"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574677",
+   "url": "https://doi.org/10.5281/zenodo.6574677",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] An Implementation of Fair Robust Learning",
+   "authors": [
+    "Ian Hardy"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574657",
+   "url": "https://doi.org/10.5281/zenodo.6574657",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients",
+   "authors": [
+    "Anirudh Buvanesh",
+    "Madhur Panwar"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574643",
+   "url": "https://doi.org/10.5281/zenodo.6574643",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A general model of hippocampal and dorsal striatal learning and decision making",
+   "authors": [
+    "Thomas Misiek",
+    "Mehdi Khamassi"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6573684",
+   "url": "https://doi.org/10.5281/zenodo.6573684",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space",
+   "authors": [
+    "Benjamin Džubur"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574649",
+   "url": "https://doi.org/10.5281/zenodo.6574649",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "ML Reproducibility Challenge 2021",
+   "authors": [
+    "Koustuv Sinha",
+    "Jesse Dodge",
+    "Sasha Luccioni",
+    "Jessica Zosa Forde",
+    "Sharath Chandra Raparthy",
+    "Joelle Pineau",
+    "Robert Stojnic"
+   ],
+   "date": "2022-05",
+   "doi": "10.5281/zenodo.6574723",
+   "url": "https://doi.org/10.5281/zenodo.6574723",
+   "type": "Editorial"
+  },
+  {
+   "journal": "jcre",
+   "title": "The Possible Unemployment Cost of Average Inflation Below a Credible Target. A Replication Study of Svensson (American Economic Journal: Macroeconomics, 2015)",
+   "authors": [
+    "Ramy Oraby"
+   ],
+   "date": "2022-04-20",
+   "doi": "10.18718/81781.24",
+   "url": "https://doi.org/10.18718/81781.24",
+   "type": null
+  },
+  {
+   "journal": "rescience-x",
+   "title": "The Importance of Teacher Credentials for Early Achievement",
+   "authors": [
+    "Rachel Renbarger",
+    "Tracey Sulak",
+    "Grant Morgan"
+   ],
+   "date": "2022-04-09",
+   "doi": null,
+   "url": "http://rescience.org/x/article/view/8",
+   "type": "Replications of results"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Modeling habits as self-sustained patterns of sensorimotor behavior",
+   "authors": [
+    "Tristan Gillard,",
+    "Jérémy Fix",
+    "Alain Dutech"
+   ],
+   "date": "2022-04",
+   "doi": "https://doi.org/10.5281/zenodo.6484021",
+   "url": "https://doi.org/https://doi.org/10.5281/zenodo.6484021",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Effective Program Debloating via Reinforcement Learning",
+   "authors": [
+    "Denis Maurel",
+    "Jérôme Fillioux",
+    "Dan Gugenheim"
+   ],
+   "date": "2022-03",
+   "doi": "10.5281/zenodo.6255131",
+   "url": "https://doi.org/10.5281/zenodo.6255131",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "The Relationship between Government and Private Consumption. A Replication Study of Fiorito & Kollintzas (European Economic Review, 2004)",
+   "authors": [
+    "Zhongchen Song"
+   ],
+   "date": "2022-02-15",
+   "doi": "10.18718/81781.23",
+   "url": "https://doi.org/10.18718/81781.23",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] The Evolution of Virulence in Pathogens with Vertical and Horizontal Transmission",
+   "authors": [
+    "Fares Dhane",
+    "Sandrine Soeharjono",
+    "Kiri Stern",
+    "Andrew MacDonald",
+    "Timothée Poisot"
+   ],
+   "date": "2021-11",
+   "doi": "10.5281/zenodo.5722853",
+   "url": "https://doi.org/10.5281/zenodo.5722853",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Reservoir Computing Model of Reward-Modulated Motor Learning and Automaticity",
+   "authors": [
+    "Remya Sankar",
+    "Nicolas Thou",
+    "Nicolas P. Rougier",
+    "Arthur Leblois"
+   ],
+   "date": "2021-11",
+   "doi": "10.5281/zenodo.5718075",
+   "url": "https://doi.org/10.5281/zenodo.5718075",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Spread of alpha-synuclein pathology through the brain connectome is modulated by selective vulnerability and predicted by network analysis",
+   "authors": [
+    "Thomas E. Paul",
+    "Mathieu Bourdenx"
+   ],
+   "date": "2021-09",
+   "doi": "10.5281/zenodo.5379631",
+   "url": "https://doi.org/10.5281/zenodo.5379631",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Context-Dependent Encoding of Fear and Extinction Memories in a Large-Scale Network Model of the Basal Amygdala",
+   "authors": [
+    "Tawan T. A. Carvalho",
+    "Luana B. Domingos",
+    "Renan O. Shimoura",
+    "Nilton L. Kamiji",
+    "Vinicius L. Cordeiro",
+    "Mauro Copelli",
+    "Antonio C. Roque"
+   ],
+   "date": "2021-09",
+   "doi": "10.5281/zenodo.5657320",
+   "url": "https://doi.org/10.5281/zenodo.5657320",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Three-dimensional wake topology and propulsive performance of low-aspect-ratio pitching-rolling plates",
+   "authors": [
+    "Olivier Mesnard",
+    "Lorena A. Barba"
+   ],
+   "date": "2021-08",
+   "doi": "10.5281/zenodo.5234931",
+   "url": "https://doi.org/10.5281/zenodo.5234931",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Spatial constraints underlying the retinal mosaics of two types of horizontal cells in cat and macaque",
+   "authors": [
+    "Stephen J. Eglen"
+   ],
+   "date": "2021-08",
+   "doi": "10.5281/zenodo.5347786",
+   "url": "https://doi.org/10.5281/zenodo.5347786",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On the Relationship between Self-Attention and Convolutional Layers",
+   "authors": [
+    "Mukund Varma",
+    "Nishant Prabhu"
+   ],
+   "date": "2021-08",
+   "doi": "10.5281/zenodo.5217602",
+   "url": "https://doi.org/10.5281/zenodo.5217602",
+   "type": "Editorial"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models",
+   "authors": [
+    "Philipp H. Boersch-Supan"
+   ],
+   "date": "2021-06",
+   "doi": "10.5281/zenodo.5006005",
+   "url": "https://doi.org/10.5281/zenodo.5006005",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Warm-Starting Neural Network Training",
+   "authors": [
+    "Klim Kireev",
+    "Amirkeivan Mohtashami",
+    "Ehsan Pajouheshgar"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834856",
+   "url": "https://doi.org/10.5281/zenodo.4834856",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Training Binary Neural Networks using the Bayesian Learning Rule",
+   "authors": [
+    "Prateek Garg",
+    "Lakshya Singhal",
+    "Ashish Sardana"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4833681",
+   "url": "https://doi.org/10.5281/zenodo.4833681",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Speedup Graph Processing by Graph Ordering",
+   "authors": [
+    "Fabrice Lécuyer",
+    "Maximilien Danisch",
+    "Lionel Tabourier"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4836230",
+   "url": "https://doi.org/10.5281/zenodo.4836230",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Spatial-Adaptive Network for Single Image Denoising",
+   "authors": [
+    "Sami Menteş",
+    "Furkan Kınlı",
+    "Barış Özcan",
+    "Furkan Kıraç"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834672",
+   "url": "https://doi.org/10.5281/zenodo.4834672",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention",
+   "authors": [
+    "Maja Schneider",
+    "Marco Körner"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835356",
+   "url": "https://doi.org/10.5281/zenodo.4835356",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Rigging the Lottery: Making All Tickets Winners",
+   "authors": [
+    "Varun Sundar",
+    "Rajat Vadiraj Dwaraknath"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835564",
+   "url": "https://doi.org/10.5281/zenodo.4835564",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducing Learning to Deceive With Attention-Based Explanations",
+   "authors": [
+    "Rahel Habacker",
+    "Andrew Harrison",
+    "Mathias Parisot",
+    "Ard Snijders"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834146",
+   "url": "https://doi.org/10.5281/zenodo.4834146",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducing 'Identifying through flows for recovering latent representations'",
+   "authors": [
+    "Hidde Lekanne gezegd Deprez",
+    "Geerten Rijsdijk",
+    "Bart de Rooij",
+    "Wouter Zwerink"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4839595",
+   "url": "https://doi.org/10.5281/zenodo.4839595",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility study - Does enforcing diversity in hidden states of LSTM-Attention models improve transparency?",
+   "authors": [
+    "Pieter Bouwman",
+    "Yun Li",
+    "Rogier van der Weerd",
+    "Frank Verhoef"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835592",
+   "url": "https://doi.org/10.5281/zenodo.4835592",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproducibility report of \"Interpretable Complex-Valued Neural Networks for Privacy Protection\"",
+   "authors": [
+    "Arsen Sheverdin",
+    "Alko Knijff",
+    "Noud Corten",
+    "Georg Lange"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835431",
+   "url": "https://doi.org/10.5281/zenodo.4835431",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Replication Study of 'Generative causal explanations of black-box classifiers'",
+   "authors": [
+    "Ivo Verhoeven",
+    "Xinyi Chen",
+    "Qingzhi Hu",
+    "Mario Holubar"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835600",
+   "url": "https://doi.org/10.5281/zenodo.4835600",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reimplementation of FixMatch and Investigation on Noisy (Pseudo) Labels and Confirmation Errors of FixMatch",
+   "authors": [
+    "Ci Li",
+    "Ruibo Tu",
+    "Hui Zhang"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834442",
+   "url": "https://doi.org/10.5281/zenodo.4834442",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Parameterized Explainer for Graph Neural Network",
+   "authors": [
+    "Lars Holdijk",
+    "Maarten Boon",
+    "Stijn Henckens",
+    "Lysander de Jong"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834242",
+   "url": "https://doi.org/10.5281/zenodo.4834242",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On end-to-end 6DoF object pose estimation and robustness to object scale",
+   "authors": [
+    "Georgios Albanis",
+    "Nikolaos Zioulis",
+    "Anargyros Chatzitofis",
+    "Anastasios Dimou",
+    "Dimitrios Zarpalas",
+    "Petros Daras"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4833219",
+   "url": "https://doi.org/10.5281/zenodo.4833219",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Neural Networks Fail to Learn Periodic Functions and How to Fix It",
+   "authors": [
+    "Mayur Arvind",
+    "Mustansir Mama"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4833389",
+   "url": "https://doi.org/10.5281/zenodo.4833389",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Learning Memory Guided Normality for Anomaly Detection",
+   "authors": [
+    "Kevin Stephen",
+    "Varun Menon"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834610",
+   "url": "https://doi.org/10.5281/zenodo.4834610",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings",
+   "authors": [
+    "Jishnu Jaykumar P",
+    "Ashish Sardana"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834942",
+   "url": "https://doi.org/10.5281/zenodo.4834942",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Hamiltonian Generative Networks",
+   "authors": [
+    "Balsells Rodas, Carles",
+    "Canal Anton, Oleguer",
+    "Taschin, Federico"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835278",
+   "url": "https://doi.org/10.5281/zenodo.4835278",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Explaining Groups of Points in Low-Dimensional Representations",
+   "authors": [
+    "Damiaan J. W. Reijnaers",
+    "Daniël B. van de Pavert",
+    "Giguru Scheuer",
+    "Liang Huang"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835056",
+   "url": "https://doi.org/10.5281/zenodo.4835056",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Explaining Groups of Points in Low-Dimensional Representations",
+   "authors": [
+    "Rajeev Verma",
+    "Jim J. O. Wagemans",
+    "Paras Dahal",
+    "Auke Elfrink"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4835602",
+   "url": "https://doi.org/10.5281/zenodo.4835602",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias",
+   "authors": [
+    "Sunnie S. Y. Kim",
+    "Sharon Zhang",
+    "Nicole Meister",
+    "Olga Russakovsky"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834352",
+   "url": "https://doi.org/10.5281/zenodo.4834352",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Deep Fair Clustering for Visual Learning",
+   "authors": [
+    "Tobias Teule",
+    "Nienke Reints",
+    "Chris Al Gerges",
+    "Pauline Baanders"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4833547",
+   "url": "https://doi.org/10.5281/zenodo.4833547",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Can gradient clipping mitigate label noise?",
+   "authors": [
+    "David Mizrahi",
+    "Oğuz Kaan Yüksel",
+    "Aiday Marlen Kyzy"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834744",
+   "url": "https://doi.org/10.5281/zenodo.4834744",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Reproduction of Ensemble Distribution Distillation",
+   "authors": [
+    "Toomas Liiv",
+    "Einar Lennelöv",
+    "Aron Norén"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4834516",
+   "url": "https://doi.org/10.5281/zenodo.4834516",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "ML Reproducibility Challenge 2020",
+   "authors": [
+    "Koustuv Sinha",
+    "Jesse Dodge",
+    "Sasha Luccioni",
+    "Jessica Zosa Forde",
+    "Robert Stojnic",
+    "Joelle Pineau"
+   ],
+   "date": "2021-05",
+   "doi": "10.5281/zenodo.4833117",
+   "url": "https://doi.org/10.5281/zenodo.4833117",
+   "type": "Editorial"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Neurodynamical Model for Working Memory",
+   "authors": [
+    "Theophile Boraud",
+    "Anthony Strock"
+   ],
+   "date": "2021-04",
+   "doi": "10.5281/zenodo.4655870",
+   "url": "https://doi.org/10.5281/zenodo.4655870",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "The Mental Health Cost of Terrorism. A Replication Study of Kim and Kim (Health Economics, 2018)",
+   "authors": [
+    "Tyler Smith",
+    "Tom Coupé"
+   ],
+   "date": "2021-03-01",
+   "doi": "10.18718/81781.20",
+   "url": "https://doi.org/10.18718/81781.20",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Drivers of evapotranspiration from boreal wildfires",
+   "authors": [
+    "Ben Bond-Lamberty"
+   ],
+   "date": "2021-03",
+   "doi": "10.5281/zenodo.4617894",
+   "url": "https://doi.org/10.5281/zenodo.4617894",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Assortative matching and search",
+   "authors": [
+    "Félix Geoffroy"
+   ],
+   "date": "2021-03",
+   "doi": "10.5281/zenodo.4646680",
+   "url": "https://doi.org/10.5281/zenodo.4646680",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Reproduction of the normal and pathological dynamics in the basal ganglia-thalamo-cortical network",
+   "authors": [
+    "Arthur Leblois"
+   ],
+   "date": "2021-02",
+   "doi": "10.5281/zenodo.4543356",
+   "url": "https://doi.org/10.5281/zenodo.4543356",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Neural Network Model of Memory Retrieval",
+   "authors": [
+    "Carlos de la Torre-Ortiz",
+    "Aurélien Nioche"
+   ],
+   "date": "2021-01",
+   "doi": "10.5281/zenodo.4461767",
+   "url": "https://doi.org/10.5281/zenodo.4461767",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "The Labour Market Effects of a Refugee Wave. A Replication Study of Peri and Yasenov (Journal of Human Resources, 2019)",
+   "authors": [
+    "Michael Christl"
+   ],
+   "date": "2020-12-18",
+   "doi": "10.18718/81781.19",
+   "url": "https://doi.org/10.18718/81781.19",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Volume computation for polytopes: Vingt ans après",
+   "authors": [
+    "Andreas Enge"
+   ],
+   "date": "2020-12",
+   "doi": "10.5281/zenodo.4242972",
+   "url": "https://doi.org/10.5281/zenodo.4242972",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Estimating trends and seasonality in coronary heart disease",
+   "authors": [
+    "Adrian Barnett"
+   ],
+   "date": "2020-11",
+   "doi": "10.5281/zenodo.4290512",
+   "url": "https://doi.org/10.5281/zenodo.4290512",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Faster Teaching via POMDP Planning",
+   "authors": [
+    "Lukas Brückner",
+    "Aurélien Nioche"
+   ],
+   "date": "2020-11",
+   "doi": "10.5281/zenodo.4242943",
+   "url": "https://doi.org/10.5281/zenodo.4242943",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Reproducing \"Typographical Features for Scene Text Recognition\"",
+   "authors": [
+    "Jerod Weinman"
+   ],
+   "date": "2020-10",
+   "doi": "10.5281/zenodo.4091742",
+   "url": "https://doi.org/10.5281/zenodo.4091742",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] The principal components of natural images",
+   "authors": [
+    "Iain Davies",
+    "Stephen Eglen"
+   ],
+   "date": "2020-10",
+   "doi": "10.5281/zenodo.4139359",
+   "url": "https://doi.org/10.5281/zenodo.4139359",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Fluctuation domains in adaptive evolution",
+   "authors": [
+    "Carl Boettiger"
+   ],
+   "date": "2020-09",
+   "doi": "10.5281/zenodo.4081202",
+   "url": "https://doi.org/10.5281/zenodo.4081202",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Hippocampal Phase-Amplitude Coupling unearthed again",
+   "authors": [
+    "Harald Hentschke"
+   ],
+   "date": "2020-09",
+   "doi": "10.5281/zenodo.4022361",
+   "url": "https://doi.org/10.5281/zenodo.4022361",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Chaos in a Three-Species Food Chain",
+   "authors": [
+    "Gabriel Dansereau",
+    "Francis Banville",
+    "Elodie Basque",
+    "Andrew MacDonald",
+    "Timothée Poisot"
+   ],
+   "date": "2020-09",
+   "doi": "10.5281/zenodo.4022518",
+   "url": "https://doi.org/10.5281/zenodo.4022518",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Dendrodendritic inhibition and simulated odor responses in a detailed olfactory bulb network model",
+   "authors": [
+    "Andrew P. Davison"
+   ],
+   "date": "2020-08",
+   "doi": "10.5281/zenodo.3972130",
+   "url": "https://doi.org/10.5281/zenodo.3972130",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "Re ReScience challenge: Geographical Trends in the Water Chemistry of Wetlands in the South-Western Cape Province, South Africas",
+   "authors": [
+    "Michael Silberbauer"
+   ],
+   "date": "2020-08",
+   "doi": "10.5281/zenodo.3996198",
+   "url": "https://doi.org/10.5281/zenodo.3996198",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Rp] Reproducibility of 'Poincaré dodecahedral space parameter estimates'",
+   "authors": [
+    "Boudewijn F. Roukema"
+   ],
+   "date": "2020-07",
+   "doi": "10.5281/zenodo.3956058",
+   "url": "https://doi.org/10.5281/zenodo.3956058",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Reproducibility report: Identifying essential genes by mutagenesis",
+   "authors": [
+    "Karl W. Broman"
+   ],
+   "date": "2020-07",
+   "doi": "10.5281/zenodo.3959516",
+   "url": "https://doi.org/10.5281/zenodo.3959516",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "jcre",
+   "title": "Not Evidence for Baumol’s Cost Disease. A Reply to Atanda and Reed (International Journal for Re-Views in Empirical Economics, 2020)",
+   "authors": [
+    "Jochen Hartwig"
+   ],
+   "date": "2020-06-15",
+   "doi": "10.18718/81781.18",
+   "url": "https://doi.org/10.18718/81781.18",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[¬Rp] Stokes drag on conglomerates of spheres",
+   "authors": [
+    "Konrad Hinsen"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3889694",
+   "url": "https://doi.org/10.5281/zenodo.3889694",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Structural flexibility in proteins - impact of the crystal environment",
+   "authors": [
+    "Konrad Hinsen"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3886447",
+   "url": "https://doi.org/10.5281/zenodo.3886447",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Reproduction of Step width enhancement in a pulse-driven Josephson junction",
+   "authors": [
+    "Sabino Maggi"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3922195",
+   "url": "https://doi.org/10.5281/zenodo.3922195",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Reproducibility report: Estimating friction coefficients of mixed globular/chain molecules, such as protein/DNA complexes. [Biophys J 69, 840-848 (1995)]",
+   "authors": [
+    "Charles H. Robert"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3886412",
+   "url": "https://doi.org/10.5281/zenodo.3886412",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Parallelization of an object-oriented FEM dynamics code",
+   "authors": [
+    "Olivier Pantalé"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3901241",
+   "url": "https://doi.org/10.5281/zenodo.3901241",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] LOUPE",
+   "authors": [
+    "Nicolas P. Rougier"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3886628",
+   "url": "https://doi.org/10.5281/zenodo.3886628",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Gifa V.4: A complete package for NMR data set processing",
+   "authors": [
+    "Marc-André Delsuc"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3904595",
+   "url": "https://doi.org/10.5281/zenodo.3904595",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Storage Tradeoffs in a Collaborative Backup Service for Mobile Devices",
+   "authors": [
+    "Ludovic Courtès"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3886739",
+   "url": "https://doi.org/10.5281/zenodo.3886739",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Measures for investigating the contextual modulation of information transmission",
+   "authors": [
+    "Sepehr Mahmoudian"
+   ],
+   "date": "2020-06",
+   "doi": "10.5281/zenodo.3885793",
+   "url": "https://doi.org/10.5281/zenodo.3885793",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Trends in the Gender Wage Gap in the US. A replication study of Blau and Kahn (Journal of Economic Literature 2017)",
+   "authors": [
+    "Matthias Collischon"
+   ],
+   "date": "2020-05-29",
+   "doi": "10.18718/81781.17",
+   "url": "https://doi.org/10.18718/81781.17",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Zero-Shot Knowledge Transfer via Adversarial Belief Matching",
+   "authors": [
+    "Alexandros Ferles",
+    "Alexander Nöu",
+    "Leonidas Valavanis"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818623",
+   "url": "https://doi.org/10.5281/zenodo.3818623",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] When to Trust Your Model: Model-Based Policy Optimization",
+   "authors": [
+    "Yuting Liu",
+    "Jiahao Xu",
+    "Yiming Pan"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818611",
+   "url": "https://doi.org/10.5281/zenodo.3818611",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Unsupervised Scalable Representation Learning for Multivariate Time Series",
+   "authors": [
+    "Felix Liljefors",
+    "Moein Sorkhei",
+    "Sofia Broomé"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818613",
+   "url": "https://doi.org/10.5281/zenodo.3818613",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Unsupervised Representation Learning in Atari",
+   "authors": [
+    "Gabriel Alacchi",
+    "Guillaume Lam",
+    "Carl Perreault-Lafleur"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818625",
+   "url": "https://doi.org/10.5281/zenodo.3818625",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Tensor Monte Carlo: Particle Methods for the GPU Era",
+   "authors": [
+    "Oskar Kviman",
+    "Linus Nilsson",
+    "Martin Larsson"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818617",
+   "url": "https://doi.org/10.5281/zenodo.3818617",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers",
+   "authors": [
+    "Varun Gohil",
+    "S. Deepak Narayanan",
+    "Atishay Jain"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818619",
+   "url": "https://doi.org/10.5281/zenodo.3818619",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Mathematical analysis of depolarization block mediated by slow inactivation of fast sodium channels in midbrain dopamine neurons",
+   "authors": [
+    "Mary Upshall",
+    "Aaron R. Shifman"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3842360",
+   "url": "https://doi.org/10.5281/zenodo.3842360",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Improved Calibration and Predictive Uncertainty for Deep Neural Networks",
+   "authors": [
+    "Aditya Singh",
+    "Alessandro Bay"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818605",
+   "url": "https://doi.org/10.5281/zenodo.3818605",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Hamiltonian Neural Networks",
+   "authors": [
+    "Ayush Garg",
+    "Sammed Shantinath Kagi"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818621",
+   "url": "https://doi.org/10.5281/zenodo.3818621",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Generative Modeling by Estimating Gradients of the Data Distribution",
+   "authors": [
+    "Antonio Matosevic",
+    "Eliisabet Hein",
+    "Francesco Nuzzo"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818609",
+   "url": "https://doi.org/10.5281/zenodo.3818609",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A comprehensive study on binary optimizer and its applicability",
+   "authors": [
+    "Nancy Nayak",
+    "Vishnu Raj",
+    "Sheetal Kalyani"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818607",
+   "url": "https://doi.org/10.5281/zenodo.3818607",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "NeurIPS 2019 Reproducibility Challenge",
+   "authors": [
+    "Koustuv Sinha",
+    "Joelle Pineau",
+    "Jessica Forde",
+    "Rosemary Nan Ke",
+    "Hugo Larochelle"
+   ],
+   "date": "2020-05",
+   "doi": "10.5281/zenodo.3818627",
+   "url": "https://doi.org/10.5281/zenodo.3818627",
+   "type": "Editorial"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Reproducing and replicating the OCamlP3l experiment",
+   "authors": [
+    "Di Cosmo, Roberto",
+    "Danelutto, Marco"
+   ],
+   "date": "2020-04",
+   "doi": "10.5281/zenodo.4041602",
+   "url": "https://doi.org/10.5281/zenodo.4041602",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "jcre",
+   "title": "Not Evidence for Baumol’s Cost Disease. A replication study of Hartwig (Journal of Health Economics, 2008)",
+   "authors": [
+    "Akinwande Atanda",
+    "W. Robert Reed"
+   ],
+   "date": "2020-03-09",
+   "doi": "10.18718/81781.16",
+   "url": "https://doi.org/10.18718/81781.16",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Rp] Reproduction of interaction second virial coefficient calculation for H2--CO interactions [J. Chem. Phys. vol. 112, 4417 (2000)]",
+   "authors": [
+    "George C. McBane"
+   ],
+   "date": "2020-01",
+   "doi": "10.5281/zenodo.3630224",
+   "url": "https://doi.org/10.5281/zenodo.3630224",
+   "type": "Reproduction"
+  },
+  {
+   "journal": "jcre",
+   "title": "Semiparametric Value-At-Risk Estimation of Portfolios. A replication study of Dias (Journal of Banking & Finance, 2014)",
+   "authors": [
+    "Jiahua Xu"
+   ],
+   "date": "2019-11-20",
+   "doi": "10.18718/81781.15",
+   "url": "https://doi.org/10.18718/81781.15",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Connectivity reflects coding a model of voltage-based STDP with homeostasis",
+   "authors": [
+    "Rene Larisch"
+   ],
+   "date": "2019-11",
+   "doi": "10.5281/zenodo.3538217",
+   "url": "https://doi.org/10.5281/zenodo.3538217",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "Eliminating the Variability of Cross-Validation Results with LIBLINEAR due to Randomization and Parallelization",
+   "authors": [
+    "Vladimir Sukhoy",
+    "Alexander Stoytchev"
+   ],
+   "date": "2019-11",
+   "doi": "10.5281/zenodo.3528175",
+   "url": "https://doi.org/10.5281/zenodo.3528175",
+   "type": "Letter"
+  },
+  {
+   "journal": "jcre",
+   "title": "Meta-analysis and publication bias: How well does the FAT-PET-PEESE procedure work? A reply to Hong (International Journal for Re-Views in Empirical Economics, 2019)",
+   "authors": [
+    "Robert W. Reed"
+   ],
+   "date": "2019-09-24",
+   "doi": "10.18718/81781.14",
+   "url": "https://doi.org/10.18718/81781.14",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Meta-analysis and publication bias: How well does the FAT-PET-PEESE procedure work? A replication study of Alinaghi & Reed (Research Synthesis Methods, 2018)",
+   "authors": [
+    "Sanghyun Hong"
+   ],
+   "date": "2019-07-16",
+   "doi": "10.18718/81781.13",
+   "url": "https://doi.org/10.18718/81781.13",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] h-detach: Modifying the LSTM gradient towards better optimization",
+   "authors": [
+    "Aniket Didolkar"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3162114",
+   "url": "https://doi.org/10.5281/zenodo.3162114",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Variational Sparse Coding",
+   "authors": [
+    "Alfredo De la Fuente",
+    "Robert Aduviri"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3161734",
+   "url": "https://doi.org/10.5281/zenodo.3161734",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] The Wisconsin Card Sorting Test: Theoretical analysis and modeling in a neuronal network",
+   "authors": [
+    "Pauline Bock",
+    "Frédéric Alexandre"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3545905",
+   "url": "https://doi.org/10.5281/zenodo.3545905",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Resampling methods for evaluating classification accuracy of wildlife habitat models",
+   "authors": [
+    "Thomas R. Etherington",
+    "David J. Lieske"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3234524",
+   "url": "https://doi.org/10.5281/zenodo.3234524",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Meta-learning with differentiable closed-form solvers",
+   "authors": [
+    "Arnout Devos",
+    "Sylvain Chatel",
+    "Matthias Grossglauser"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3160540",
+   "url": "https://doi.org/10.5281/zenodo.3160540",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Learning Neural PDE Solvers with Convergence Guarantees ICLR Reproducibility Challenge 2019",
+   "authors": [
+    "Francesco Bardi",
+    "Samuel von Baussnern",
+    "Emiljano Gjiriti"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3162890",
+   "url": "https://doi.org/10.5281/zenodo.3162890",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Fast-Activating Voltage- and Calcium-Dependent Potassium (BK) Conductance Promotes Bursting in Pituitary Cells: A Dynamic Clamp Study",
+   "authors": [
+    "Simen Tennøe",
+    "Kjetil Hodne",
+    "Trude M. Haug",
+    "Finn-Arne Weltzien",
+    "Gaute T. Einevoll",
+    "Geir Halnes"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.2611252",
+   "url": "https://doi.org/10.5281/zenodo.2611252",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "ReScience (R)evolution",
+   "authors": [
+    "Konrad Hinsen",
+    "Nicolas P. Rougier"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3069619",
+   "url": "https://doi.org/10.5281/zenodo.3069619",
+   "type": "Editorial"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "ICLR Reproducibility Challenge 2019",
+   "authors": [
+    "Joelle Pineau",
+    "Koustuv Sinha",
+    "Genevieve Fried",
+    "Rosemary Nan Ke",
+    "Hugo Larochelle"
+   ],
+   "date": "2019-05",
+   "doi": "10.5281/zenodo.3158244",
+   "url": "https://doi.org/10.5281/zenodo.3158244",
+   "type": "Editorial"
+  },
+  {
+   "journal": "jcre",
+   "title": "Estimating microcredit impact with low take-up, contamination and inconsistent data. A replication study of Crépon, Devoto, Duflo, and Pariente (American Economic Journal: Applied Economics, 2015)",
+   "authors": [
+    "Florent Bédécarrats",
+    "Isabelle Guérin",
+    "Solène Morvant-Roux",
+    "François Roubaud"
+   ],
+   "date": "2019-03-13",
+   "doi": "10.18718/81781.12",
+   "url": "https://doi.org/10.18718/81781.12",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Revisiting the Drivers of Natural Gas Prices. A replication study of Brown & Yücel (The Energy Journal, 2008)",
+   "authors": [
+    "Gavin Roberts"
+   ],
+   "date": "2019-03-12",
+   "doi": "10.18718/81781.11",
+   "url": "https://doi.org/10.18718/81781.11",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Tweet Sixteen and Pregnant: Missing Links in the Causal Chain from Reality TV to Fertility. A replication study of Kearney & Levine (American Economic Review, 2015)",
+   "authors": [
+    "David A. Jaeger",
+    "Theodore J. Joyce",
+    "Robert Kaestner"
+   ],
+   "date": "2019-01-29",
+   "doi": "10.18718/81781.10",
+   "url": "https://doi.org/10.18718/81781.10",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Insect natural enemies as regulating factors",
+   "authors": [
+    "Dominique Caron",
+    "Vincent Lessard",
+    "Qile Wu",
+    "Timothée Poisot"
+   ],
+   "date": "2019-01",
+   "doi": "10.5281/zenodo.2598793",
+   "url": "https://doi.org/10.5281/zenodo.2598793",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Federal minimum wage hikes do reduce teenage employment. A replication study of Bazen & Marimoutou (Oxford Bulletin of Economics and Statistics, 2002).",
+   "authors": [
+    "Stephen Bazen",
+    "Velayoudom Marimoutou"
+   ],
+   "date": "2018-12-27",
+   "doi": "10.18718/81781.9",
+   "url": "https://doi.org/10.18718/81781.9",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Malaria Eradication in the Americas. A replication study of Bleakley (American Economic Journal. Applied Economics, 2010)",
+   "authors": [
+    "David Roodman"
+   ],
+   "date": "2018-12-14",
+   "doi": "10.18718/81781.8",
+   "url": "https://doi.org/10.18718/81781.8",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "The Impacts of Hookworm Eradication in the American South. A replication study of Bleakley (The Quarterly Journal of Economics, 2007)",
+   "authors": [
+    "David Roodman"
+   ],
+   "date": "2018-12-10",
+   "doi": "10.18718/81781.7",
+   "url": "https://doi.org/10.18718/81781.7",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Editorial",
+   "authors": [
+    "Martina Grunow",
+    "Hilmar Schneider",
+    "Gert G. Wagner",
+    "Joachim Wagner"
+   ],
+   "date": "2018-08-31",
+   "doi": "10.18718/81781.6",
+   "url": "https://doi.org/10.18718/81781.6",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains",
+   "authors": [
+    "Pamela Hathway",
+    "Dan F. M. Goodman"
+   ],
+   "date": "2018-08",
+   "doi": "10.5281/zenodo.1327348",
+   "url": "https://doi.org/10.5281/zenodo.1327348",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] On the coexistence of specialists and generalists",
+   "authors": [
+    "Timothée Poisot"
+   ],
+   "date": "2018-08",
+   "doi": "10.5281/zenodo.1402676",
+   "url": "https://doi.org/10.5281/zenodo.1402676",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Adaptive properties of differential learning rates for positive and negative outcomes",
+   "authors": [
+    "Sophie Bavard",
+    "Héloïse Théro"
+   ],
+   "date": "2018-06",
+   "doi": "10.5281/zenodo.1289889",
+   "url": "https://doi.org/10.5281/zenodo.1289889",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Inflation and Broadband Revisited: Evidence from an OECD Panel. A replication study of Yi and Choi (Journal of Policy Modeling, 2005)",
+   "authors": [
+    "Klaus Friesenbichler"
+   ],
+   "date": "2018-05-15",
+   "doi": "10.18718/81781.5",
+   "url": "https://doi.org/10.18718/81781.5",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] The cell-type specific cortical microcircuit: relating structure and activity in a full-scale spiking network model",
+   "authors": [
+    "Renan O. Shimoura",
+    "Nilton L. Kamij",
+    "Rodrigo F.O. Pena",
+    "Vinicius L. Cordeiro",
+    "Cesar C. Ceballos",
+    "Cecilia Romaro",
+    "Antonio C. Roque"
+   ],
+   "date": "2018-05",
+   "doi": "10.5281/zenodo.1244116",
+   "url": "https://doi.org/10.5281/zenodo.1244116",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Predicting metabolic biomarkers of human inborn errors of metabolism",
+   "authors": [
+    "Thierry D.G.A. Mondeel",
+    "Vivian Ogundipe,",
+    "Hans V. Westerhoff"
+   ],
+   "date": "2018-05",
+   "doi": "10.5281/zenodo.1254629",
+   "url": "https://doi.org/10.5281/zenodo.1254629",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Non-additive coupling enables propagation of synchronous spiking activity in purely random networks",
+   "authors": [
+    "Romain Cazé",
+    "Marcel Stimberg",
+    "Benoît Girard"
+   ],
+   "date": "2018-05",
+   "doi": "10.5281/zenodo.1246659",
+   "url": "https://doi.org/10.5281/zenodo.1246659",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A neural model of the saccade generator in the reticular formation",
+   "authors": [
+    "Mario Senden",
+    "Jannis Schuecker",
+    "Jan Hahne",
+    "Markus Diesmann",
+    "Rainer Goebel"
+   ],
+   "date": "2018-05",
+   "doi": "10.5281/zenodo.1241004",
+   "url": "https://doi.org/10.5281/zenodo.1241004",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A Generalized Linear Integrate-and-Fire Neural Model Produces Diverse Spiking Behaviors",
+   "authors": [
+    "Georgios Detorakis"
+   ],
+   "date": "2017-10",
+   "doi": "10.5281/zenodo.1003214",
+   "url": "https://doi.org/10.5281/zenodo.1003214",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] How learning can guide evolution",
+   "authors": [
+    "Hrvoje Stojić"
+   ],
+   "date": "2017-09",
+   "doi": "10.5281/zenodo.890884",
+   "url": "https://doi.org/10.5281/zenodo.890884",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A bidirectional model for communication in the neurovascular unit",
+   "authors": [
+    "Alexandra K. Diem"
+   ],
+   "date": "2017-09",
+   "doi": "10.5281/zenodo.890901",
+   "url": "https://doi.org/10.5281/zenodo.890901",
+   "type": "Replication"
+  },
+  {
+   "journal": "jcre",
+   "title": "Religious Loyalty and Acceptance of Corruption. A replication study of Gouda and Park (Journal of Economics and Statistics, 2015)",
+   "authors": [
+    "Joachim Wagner"
+   ],
+   "date": "2017-08-08",
+   "doi": "10.18718/81781.3",
+   "url": "https://doi.org/10.18718/81781.3",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Productivity premia for many modes of internationalization. A replication study of Békés and Muraközy (Economics Letters, 2016)",
+   "authors": [
+    "Joachim Wagner"
+   ],
+   "date": "2017-08-08",
+   "doi": "10.18718/81781.4",
+   "url": "https://doi.org/10.18718/81781.4",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Does online availability increase citations? A replication study of McCabe and Snyder (Review of Economics and Statistics, 2015)",
+   "authors": [
+    "Joachim Wagner"
+   ],
+   "date": "2017-08-08",
+   "doi": "10.18718/81781.2",
+   "url": "https://doi.org/10.18718/81781.2",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Firm size and the use of export intermediaries. A replication study of Abel-Koch (The World Economy, 2013)",
+   "authors": [
+    "Joachim Wagner"
+   ],
+   "date": "2017-08-01",
+   "doi": "10.18718/81781.1",
+   "url": "https://doi.org/10.18718/81781.1",
+   "type": null
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Modeling GABA Alterations in Schizophrenia: A Link Between Impaired Inhibition and Gamma and Beta Auditory Entrainment",
+   "authors": [
+    "Christoph Metzner"
+   ],
+   "date": "2017-08",
+   "doi": "10.5281/zenodo.854616",
+   "url": "https://doi.org/10.5281/zenodo.854616",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] A simple rule for the evolution of cooperation on graphs and social networks",
+   "authors": [
+    "Frank Stollmeier"
+   ],
+   "date": "2017-08",
+   "doi": "10.5281/zenodo.847732",
+   "url": "https://doi.org/10.5281/zenodo.847732",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Weighted Voronoi Stippling",
+   "authors": [
+    "Nicolas P. Rougier"
+   ],
+   "date": "2017-06",
+   "doi": "10.5281/zenodo.802285",
+   "url": "https://doi.org/10.5281/zenodo.802285",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Spike Synchronization and Rate Modulation Differentially Involved in Motor Cortical Function",
+   "authors": [
+    "Vahid Rostami",
+    "Junji Ito",
+    "Michael Denker",
+    "Sonja Grün"
+   ],
+   "date": "2017-05",
+   "doi": "10.5281/zenodo.583814",
+   "url": "https://doi.org/10.5281/zenodo.583814",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Optimization of a free water elimination two-compartment model for diffusion tensor imaging",
+   "authors": [
+    "Henriques, Rafael Neto",
+    "Rokem, Ariel",
+    "Garyfallidis, Eleftherios",
+    "St-Jean, Samuel",
+    "Peterson, Eric Thomas",
+    "Correia, Marta Morgado"
+   ],
+   "date": "2017-04",
+   "doi": "10.5281/zenodo.495237",
+   "url": "https://doi.org/10.5281/zenodo.495237",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Ionic Current Model of a Hypoglossal Motoneuron",
+   "authors": [
+    "Aaron Shifman"
+   ],
+   "date": "2017-01",
+   "doi": "10.5281/zenodo.254145",
+   "url": "https://doi.org/10.5281/zenodo.254145",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] How Attention Can Create Synaptic Tags for the Learning of Working Memories in Sequential Tasks",
+   "authors": [
+    "Erwan Le Masson",
+    "Frédéric Alexandre"
+   ],
+   "date": "2016-12",
+   "doi": "10.5281/zenodo.200334",
+   "url": "https://doi.org/10.5281/zenodo.200334",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Robust timing and motor patterns by taming chaos in recurrent neural networks",
+   "authors": [
+    "Julien Vitay"
+   ],
+   "date": "2016-10",
+   "doi": "10.5281/zenodo.159545",
+   "url": "https://doi.org/10.5281/zenodo.159545",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Cellular and network mechanisms of slow oscillatory activity (<1 Hz) and wave propagations in a cortical network model",
+   "authors": [
+    "Andrei Maksimov",
+    "Sacha J. van Albada",
+    "Markus Diesmann"
+   ],
+   "date": "2016-10",
+   "doi": "10.5281/zenodo.161526",
+   "url": "https://doi.org/10.5281/zenodo.161526",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking",
+   "authors": [
+    "Georgios Detorakis"
+   ],
+   "date": "2016-09",
+   "doi": "10.5281/zenodo.61697",
+   "url": "https://doi.org/10.5281/zenodo.61697",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Chaos in a long-term experiment with a plankton community",
+   "authors": [
+    "Owen Petchey",
+    "Marco Plebani",
+    "Frank Pennekamp"
+   ],
+   "date": "2016-04",
+   "doi": "10.5281/zenodo.50213",
+   "url": "https://doi.org/10.5281/zenodo.50213",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Least-cost modelling on irregular landscape graphs",
+   "authors": [
+    "Joseph Stachelek"
+   ],
+   "date": "2016-03",
+   "doi": "10.5281/zenodo.47146",
+   "url": "https://doi.org/10.5281/zenodo.47146",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Speed/accuracy trade-off between the habitual and the goal-directed process",
+   "authors": [
+    "Guillaume Viejo",
+    "Benoît Girard",
+    "Mehdi Khamassi"
+   ],
+   "date": "2016-02",
+   "doi": "10.5281/zenodo.45852",
+   "url": "https://doi.org/10.5281/zenodo.45852",
+   "type": "Replication"
+  },
+  {
+   "journal": "rescience-c",
+   "title": "[Re] Interaction between cognitive and motor cortico-basal ganglia loops during decision making: a computational study",
+   "authors": [
+    "Meropi Topalidou",
+    "Nicolas P. Rougier"
+   ],
+   "date": "2015-08",
+   "doi": "10.5281/zenodo.27944",
+   "url": "https://doi.org/10.5281/zenodo.27944",
+   "type": "Replication"
+  }
+ ],
+ "jopd_sections": {
+  "10.5334/jopd.101": "Data Papers",
+  "10.5334/jopd.105": "Editorial",
+  "10.5334/jopd.108": "Data Papers",
+  "10.5334/jopd.109": "Data Papers",
+  "10.5334/jopd.110": "Data Papers",
+  "10.5334/jopd.111": "Editorial",
+  "10.5334/jopd.113": "Data Papers",
+  "10.5334/jopd.115": "Data Papers",
+  "10.5334/jopd.122": "Data Papers",
+  "10.5334/jopd.124": "Data Papers",
+  "10.5334/jopd.127": "Data Papers",
+  "10.5334/jopd.133": "Data Papers",
+  "10.5334/jopd.134": "Data Papers",
+  "10.5334/jopd.136": "Data Papers",
+  "10.5334/jopd.139": "Data Papers",
+  "10.5334/jopd.140": "Data Papers",
+  "10.5334/jopd.141": "Data Papers",
+  "10.5334/jopd.156": "Data Papers",
+  "10.5334/jopd.19": "Data Papers",
+  "10.5334/jopd.22": "Data Papers",
+  "10.5334/jopd.24": "Data Papers",
+  "10.5334/jopd.25": "Data Papers",
+  "10.5334/jopd.26": "Data Papers",
+  "10.5334/jopd.28": "Data Papers",
+  "10.5334/jopd.29": "Data Papers",
+  "10.5334/jopd.30": "Data Papers",
+  "10.5334/jopd.32": "Data Papers",
+  "10.5334/jopd.33": "Data Papers",
+  "10.5334/jopd.34": "Data Papers",
+  "10.5334/jopd.35": "Data Papers",
+  "10.5334/jopd.37": "Data Papers",
+  "10.5334/jopd.38": "Data Papers",
+  "10.5334/jopd.39": "Data Papers",
+  "10.5334/jopd.43": "Data Papers",
+  "10.5334/jopd.44": "Data Papers",
+  "10.5334/jopd.46": "Data Papers",
+  "10.5334/jopd.48": "Data Papers",
+  "10.5334/jopd.49": "Data Papers",
+  "10.5334/jopd.51": "Data Papers",
+  "10.5334/jopd.53": "Data Papers",
+  "10.5334/jopd.54": "Data Papers",
+  "10.5334/jopd.55": "Data Papers",
+  "10.5334/jopd.56": "Data Papers",
+  "10.5334/jopd.57": "Data Papers",
+  "10.5334/jopd.58": "Data Papers",
+  "10.5334/jopd.59": "Data Papers",
+  "10.5334/jopd.60": "Editorial",
+  "10.5334/jopd.61": "Data Papers",
+  "10.5334/jopd.62": "Data Papers",
+  "10.5334/jopd.63": "Data Papers",
+  "10.5334/jopd.64": "Data Papers",
+  "10.5334/jopd.65": "Data Papers",
+  "10.5334/jopd.66": "Data Papers",
+  "10.5334/jopd.67": "Data Papers",
+  "10.5334/jopd.68": "Data Papers",
+  "10.5334/jopd.69": "Data Papers",
+  "10.5334/jopd.70": "Data Papers",
+  "10.5334/jopd.71": "Data Papers",
+  "10.5334/jopd.72": "Data Papers",
+  "10.5334/jopd.73": "Data Papers",
+  "10.5334/jopd.74": "Data Papers",
+  "10.5334/jopd.76": "Data Papers",
+  "10.5334/jopd.77": "Data Papers",
+  "10.5334/jopd.78": "Data Papers",
+  "10.5334/jopd.79": "Data Papers",
+  "10.5334/jopd.80": "Data Papers",
+  "10.5334/jopd.81": "Data Papers",
+  "10.5334/jopd.82": "Data Papers",
+  "10.5334/jopd.83": "Data Papers",
+  "10.5334/jopd.84": "Data Papers",
+  "10.5334/jopd.86": "Data Papers",
+  "10.5334/jopd.87": "Data Papers",
+  "10.5334/jopd.89": "Data Papers",
+  "10.5334/jopd.90": "Data Papers",
+  "10.5334/jopd.91": "Data Papers",
+  "10.5334/jopd.92": "Correction",
+  "10.5334/jopd.93": "Data Papers",
+  "10.5334/jopd.94": "Data Papers",
+  "10.5334/jopd.95": "Data Papers",
+  "10.5334/jopd.97": "Data Papers",
+  "10.5334/jopd.98": "Data Papers",
+  "10.5334/jopd.99": "Data Papers",
+  "10.5334/jopd.aa": "Data Papers",
+  "10.5334/jopd.ab": "Data Papers",
+  "10.5334/jopd.ac": "Data Papers",
+  "10.5334/jopd.ad": "Data Papers",
+  "10.5334/jopd.ae": "Data Papers",
+  "10.5334/jopd.af": "Data Papers",
+  "10.5334/jopd.ag": "Data Papers",
+  "10.5334/jopd.ah": "Data Papers",
+  "10.5334/jopd.ai": "Data Papers",
+  "10.5334/jopd.aj": "Data Papers",
+  "10.5334/jopd.ak": "Data Papers",
+  "10.5334/jopd.al": "Data Papers",
+  "10.5334/jopd.am": "Correction",
+  "10.5334/jopd.an": "Data Papers",
+  "10.5334/jopd.e1": "Editorial",
+  "10.5334/jopd.e2": "Data Papers"
+ }
+}
