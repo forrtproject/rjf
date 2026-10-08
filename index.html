@@ -317,6 +317,37 @@
             color: var(--bg-primary);
         }
 
+        .pub-rss {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 0.5rem 1rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .pub-rss-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45rem;
+        }
+
+        .rss-icon {
+            width: 20px;
+            height: 20px;
+            flex-shrink: 0;
+        }
+
+        .pub-rss code {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 0.1rem 0.35rem;
+            color: var(--text-primary);
+            user-select: all;
+        }
+
         .pub-search {
             width: 100%;
             max-width: 420px;
@@ -707,7 +738,14 @@
         <section class="grid-layout">
             <div class="section-label">Publications</div>
             <div class="section-content">
-                <p class="section-desc">All articles published in our member journals, updated daily. For JOPD, only Verification Reports are included. Follow new publications via <a href="feed.xml">RSS feed</a>.</p>
+                <p class="section-desc">All articles published in our member journals, updated daily. For JOPD, only Verification Reports are included.</p>
+                <div class="pub-rss">
+                    <a href="feed.xml" class="pub-rss-link" title="RSS feed of new publications">
+                        <svg class="rss-icon" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="#f26522"/><circle cx="6.5" cy="17.5" r="2" fill="#fff"/><path d="M4.5 10.5a9 9 0 0 1 9 9M4.5 5a14.5 14.5 0 0 1 14.5 14.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>
+                        Subscribe via RSS
+                    </a>
+                    <span>Add <code>https://forrt.org/rjf/feed.xml</code> to your feed reader to follow new publications.</span>
+                </div>
                 <div class="pub-controls" id="pub-filters"></div>
                 <input type="search" class="pub-search" id="pub-search" placeholder="Search titles and authors…" aria-label="Search publications">
                 <div class="pub-count" id="pub-count">Loading publications…</div>
