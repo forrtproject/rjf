@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Replication Journal Federation – New Publications</title>
+    <link>https://forrt.org/rjf/</link>
+    <description>New articles from the member journals of the Replication Journal Federation.</description>
+    <language>en</language>
+    <atom:link href="https://forrt.org/rjf/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)</title>
+      <link>https://doi.org/10.17879/replicationresearch-2026-10085</link>
+      <guid isPermaLink="false">10.17879/replicationresearch-2026-10085</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Replication Research</category>
+      <description>Dhruv Aggarwal, Keyi Zhang, James Bartlett · Replication Research · Replications (different data)</description>
+    </item>
+    <item>
+      <title>Test anxiety can predict exam scores depending on how missing data and influential data points are treated</title>
+      <link>https://doi.org/10.21468/jrobustrep.6-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.6-rr1</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Dylan Molenaar · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>Betting Strategies of Internet Bots are not Relevant to Human Judgment. A Reply to Barna Bakó and Máté Csaba Sándor (Journal of Comments and Replications in Economics, 2026)</title>
+      <link>https://doi.org/10.18718/81781.64</link>
+      <guid isPermaLink="false">10.18718/81781.64</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Juemin Xu, Nigel Harvey · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Approaching the Hot Hand with a Cool Head. A Comment on Xu and Harvey (Cognition, 2014)</title>
+      <link>https://doi.org/10.18718/81781.63</link>
+      <guid isPermaLink="false">10.18718/81781.63</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Barna Bakó, Máté Csaba Sándor · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Reproduction and Replication of an Adversarial Stylometry Experiment</title>
+      <link>https://doi.org/10.17879/replicationresearch-2026-9414</link>
+      <guid isPermaLink="false">10.17879/replicationresearch-2026-9414</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Replication Research</category>
+      <description>Haining Wang, Patrick Juola, Allen Riddell · Replication Research · Multi-study articles</description>
+    </item>
+    <item>
+      <title>Competition and innovation: An alternative analysis</title>
+      <link>https://doi.org/10.21468/jrobustrep.4-rr2</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.4-rr2</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Daniel L. Lakeland · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>Reexamining the Effect of Clean Water. A Replication Study of Anderson, Charles, and Rees (AEJ: Applied Economics, 2022)</title>
+      <link>https://doi.org/10.18718/81781.62</link>
+      <guid isPermaLink="false">10.18718/81781.62</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Ivan Kozlov, Carson Jones · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>On the First-differences Analysis of Mask Usage and Excess Mortality. A Reply to Rangel (Journal of Comments and Replications in Economics, 2026)</title>
+      <link>https://doi.org/10.18718/81781.61</link>
+      <guid isPermaLink="false">10.18718/81781.61</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Daniel V. Tausk · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Does Mask Usage Correlate with Excess Mortality? Findings from 24 European Countries. A Comment on Tausk and Spira (BMC Public Health, 2025)</title>
+      <link>https://doi.org/10.18718/81781.60</link>
+      <guid isPermaLink="false">10.18718/81781.60</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Victor Rangel · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Business as Usual? A Replication of Andrews, Pritchett, and Woolcock (Building State Capability: Evidence, Analysis, Action, 2017)</title>
+      <link>https://doi.org/10.18718/81781.59</link>
+      <guid isPermaLink="false">10.18718/81781.59</guid>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Ryan H. Murphy · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Accuracy prompts increase the quality of news sharing while attitudinal congruence robustly reduces it</title>
+      <link>https://doi.org/10.21468/jrobustrep.5-rr2</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.5-rr2</guid>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Ilse L. Pit · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>From Replication Rates to Replication Evidence: A Guest Editorial</title>
+      <link>https://doi.org/10.17879/replicationresearch-2026-9577</link>
+      <guid isPermaLink="false">10.17879/replicationresearch-2026-9577</guid>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+      <category>Replication Research</category>
+      <description>Felix Holzmeister, Colin Camerer, Florian Cova, Anna Dreber, Magnus Johannesson · Replication Research · Editorial Communication</description>
+    </item>
+    <item>
+      <title>Tacit Algorithmic Collusion. A Replication of Calvano et al. (American Economic Review, 2020)</title>
+      <link>https://doi.org/10.18718/81781.58</link>
+      <guid isPermaLink="false">10.18718/81781.58</guid>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Jacob Schildknecht · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Schooling and Labor Market Consequences of School Construction in Indonesia. A Reply to Roodman (Journal of Comments and Replications in Economics, 2026)</title>
+      <link>https://doi.org/10.18718/81781.57</link>
+      <guid isPermaLink="false">10.18718/81781.57</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Esther Duflo, Allan Hsiao, Mikey Jarrell, Nathan Lazarus · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Schooling and Labor Market Consequences of School Construction in Indonesia. A Comment on Duflo (American Economic Review, 2001)</title>
+      <link>https://doi.org/10.18718/81781.56</link>
+      <guid isPermaLink="false">10.18718/81781.56</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>David Roodman · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Reanalysis of “Competition and innovation: An inverted- U relationship”</title>
+      <link>https://doi.org/10.21468/jrobustrep.4-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.4-rr1</guid>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Andrew Gelman · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>Facilitating better sharing quality of COVID-related headlines</title>
+      <link>https://doi.org/10.21468/jrobustrep.5-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.5-rr1</guid>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Irene Sophia Plank · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>Multiverse analysis of the effect of a non-deceptive placebo on a neural measure of emotional distress</title>
+      <link>https://doi.org/10.21468/jrobustrep.3-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.3-rr1</guid>
+      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Hannah E. Fowles, Peter J. Allen · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>Reanalyzing Castner et al. confirms most conclusions, reveals additional findings, and detects some statistical errors</title>
+      <link>https://doi.org/10.21468/jrobustrep.2-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.2-rr1</guid>
+      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Olivia C. Robertson, Erik Parker, Beate Henschel, Anna L. M. Macagno, Daniel E. Kpormegbey, Deependra K. Thapa, David B. Allison · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>No evidence that late-sighted individuals rely more on color for object recognition: A Bayesian generalized mixed effects model analysis</title>
+      <link>https://doi.org/10.21468/jrobustrep.1-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.1-rr1</guid>
+      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Thomas S. A. Wallis, Joshua M. Martin · Journal of Robustness Reports</description>
+    </item>
+    <item>
+      <title>Large-Scale Education Reform in General Equilibrium: Regression Discontinuity Evidence from India. A Reply to Roodman (Journal of Comments and Replications in Economics, 2026)</title>
+      <link>https://doi.org/10.18718/81781.55</link>
+      <guid isPermaLink="false">10.18718/81781.55</guid>
+      <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Gaurav Khanna · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Large-Scale Education Reform in General Equilibrium: Regression Discontinuity Evidence from India. A Replication Study of Khanna (Journal of Political Economy, 2023)</title>
+      <link>https://doi.org/10.18718/81781.54</link>
+      <guid isPermaLink="false">10.18718/81781.54</guid>
+      <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>David Roodman · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Do Parties Matter for Economic Outcomes? A Reply to Martin Korpi and Erik Lakomaa (Journal of Comments and Replications in Economics, 2026)</title>
+      <link>https://doi.org/10.18718/81781.53</link>
+      <guid isPermaLink="false">10.18718/81781.53</guid>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Per Pettersson-Lidbom · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Do Parties Matter for Economic Outcomes? A Replication Study of Pettersson-Lidbom (Journal of the European Economic Association, 2008)</title>
+      <link>https://doi.org/10.18718/81781.52</link>
+      <guid isPermaLink="false">10.18718/81781.52</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Martin Korpi, Erik Lakomaa · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Stable Adjustments in Regression Discontinuity. A Reply to Albada (Journal of Comments and Replications in Economics, 2025)</title>
+      <link>https://doi.org/10.18718/81781.51</link>
+      <guid isPermaLink="false">10.18718/81781.51</guid>
+      <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Andrew Gelman, Guido Imbens · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>[Re] Curve-Fitting with Piecewise Parametric Cubics</title>
+      <link>https://doi.org/10.5281/zenodo.18400484</link>
+      <guid isPermaLink="false">10.5281/zenodo.18400484</guid>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Daniel Perazzo, Davi Guimarães Nunes Sena Castro, Luiz Velho, Luiz Henrique de Figueiredo · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>Learning with Noisy Labels [Re]visited</title>
+      <link>https://doi.org/10.5281/zenodo.18401497</link>
+      <guid isPermaLink="false">10.5281/zenodo.18401497</guid>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Valter Hudovernik, Žiga Rot, Klemen Vovk, Luka Škodnik, Luka Čehovin Zajc · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>Why High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs A Comment on Gelman and Imbens (Journal of Business &amp; Economic Statistics, 2019)</title>
+      <link>https://doi.org/10.18718/81781.50</link>
+      <guid isPermaLink="false">10.18718/81781.50</guid>
+      <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Melle R. Albada · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>The Common Problem of Bad Controls in Tests of the Linguistic Savings Hypothesis. A Comment on Ayres et al. (PNAS, 2023) and related literature</title>
+      <link>https://doi.org/10.18718/81781.48</link>
+      <guid isPermaLink="false">10.18718/81781.48</guid>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Paul Clist · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Languages and Future-oriented Economic Behavior— Experimental Evidence for Causal Effects. A Reply to Clist (Journal of Comments and Replications in Economics, 2025)</title>
+      <link>https://doi.org/10.18718/81781.49</link>
+      <guid isPermaLink="false">10.18718/81781.49</guid>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Ian Ayres, Tamar Kricheli Katz, Tali Regev · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Not All Oil Price Shocks Are Alike. A Replication Study of Kilian (American Economic Review, 2009)</title>
+      <link>https://doi.org/10.18718/81781.47</link>
+      <guid isPermaLink="false">10.18718/81781.47</guid>
+      <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Rich Ryan, Nyakundi Michieka · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Bitcoin Adoption and Beliefs in Canada: A Reply to Van Hove (Journal of Comments and Replications in Economics, 2025)</title>
+      <link>https://doi.org/10.18718/81781.46</link>
+      <guid isPermaLink="false">10.18718/81781.46</guid>
+      <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Daniela Balutel, Christopher Henry, Jorge Vásquez, Marcel C. Voia · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Bitcoin Adoption and Beliefs in Canada A Comment on Daniela Balutel, Christopher Henry, Jorge Vásquez, and Marcel Voia (Canadian Journal of Economics, 2022)</title>
+      <link>https://doi.org/10.18718/81781.45</link>
+      <guid isPermaLink="false">10.18718/81781.45</guid>
+      <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Leo Van Hove · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>A Community Model for Rigorous and Inclusive Scholarship: Inaugural Editorial of Replication Research (R2)</title>
+      <link>https://doi.org/10.17879/replicationresearch-2025-9022</link>
+      <guid isPermaLink="false">10.17879/replicationresearch-2025-9022</guid>
+      <pubDate>Mon, 20 Oct 2025 12:00:00 +0000</pubDate>
+      <category>Replication Research</category>
+      <description>Lukas Röseler, Lukas Wallrich, Susanne Adler, Prince Oppong Boakye, Thomas Rhys Evans, Janik Goltermann, Tamarinde Haven, Jan Horstmann, Max Korbmacher, Miriam Müller, Steven Verheyen, Ingmar Visser, Flavio Azevedo · Replication Research · Editorial Communication</description>
+    </item>
+    <item>
+      <title>Public Infrastructure and Economic Development: Evidence from Postal Systems A Replication Study of Rogowski et al. (American Journal of Political Science, 2022)</title>
+      <link>https://doi.org/10.18718/81781.44</link>
+      <guid isPermaLink="false">10.18718/81781.44</guid>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Florian Neubauer, Julian Rose, Jörg Ankel-Peters · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Why don’t Firms Hire Young Workers during Recessions? A Replication of Forsythe (The Economic Journal, 2022)</title>
+      <link>https://doi.org/10.18718/81781.43</link>
+      <guid isPermaLink="false">10.18718/81781.43</guid>
+      <pubDate>Mon, 28 Jul 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Jonathan Créchet, Jing Cui, Barbara Sadaba, Antoine Sawyer · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>[Re] Model of thalamocortical slow-wave sleep oscillations and transitions to activated states</title>
+      <link>https://doi.org/10.5281/zenodo.16529268</link>
+      <guid isPermaLink="false">10.5281/zenodo.16529268</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Mathilde Reynes, Amélie Aussel · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>[Re] Learning Fair Graph Representations via Automated Data Augmentations</title>
+      <link>https://doi.org/10.5281/zenodo.16374814</link>
+      <guid isPermaLink="false">10.5281/zenodo.16374814</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Max Belitsky, Filipe Laitenberger, Denys Sheremet, Nordin Belkacemi · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>Drivers of Youth Outsiderness in European Labour Markets. A Comment on Marques and Salavisa (Socio-Economic Review, 2017)</title>
+      <link>https://doi.org/10.18718/81781.42</link>
+      <guid isPermaLink="false">10.18718/81781.42</guid>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Svenja Flechtner, Torsten Heinrich · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Does Education Improve Cognitive Performance Four Decades After School Completion? A Replication Study of Nicole Schneeweis, Vegard Skirbekk and Rudolf Winter-Ebmer (Demography, 2014)</title>
+      <link>https://doi.org/10.18718/81781.41</link>
+      <guid isPermaLink="false">10.18718/81781.41</guid>
+      <pubDate>Mon, 05 May 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Beatrice Baaba Tawiah, Valentin Schiele · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>The Slave Trade and the Origins of Mistrust in Africa. A Replication Study of Nunn and Wantchekon (2011)</title>
+      <link>https://doi.org/10.18718/81781.40</link>
+      <guid isPermaLink="false">10.18718/81781.40</guid>
+      <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Giulio Zanella · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>[Re] The Discriminative Kalman Filter for Bayesian Filtering with Nonlinear and Non-Gaussian Observation Models</title>
+      <link>https://doi.org/10.5281/zenodo.15172014</link>
+      <guid isPermaLink="false">10.5281/zenodo.15172014</guid>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Josue Casco-Rodriguez, Caleb Kemere, Richard G. Baraniuk · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>[Re] Network Deconvolution</title>
+      <link>https://doi.org/10.5281/zenodo.15321683</link>
+      <guid isPermaLink="false">10.5281/zenodo.15321683</guid>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Rochana R. Obadage, Kumushini Thennakoon, Sarah M. Rajtmajer, Jian Wu · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>[Re] An anatomically constrained neural network model of fear conditioning</title>
+      <link>https://doi.org/10.5281_zenodo.11077385</link>
+      <guid isPermaLink="false">10.5281_zenodo.11077385</guid>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Luc Caspar, Roger K. Moore · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>[Re] BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning</title>
+      <link>https://doi.org/10.5281/zenodo.14964875</link>
+      <guid isPermaLink="false">10.5281/zenodo.14964875</guid>
+      <pubDate>Sat, 01 Mar 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Disha Maheshwari · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>[Re] When Does Label Smoothing Help?</title>
+      <link>https://doi.org/10.5281/zenodo.14953654</link>
+      <guid isPermaLink="false">10.5281/zenodo.14953654</guid>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <category>ReScience C</category>
+      <description>Sven Dominik Wagner, Yann Philipp Kurowski, Leonhard Moritz Holländer, Tobias Uelwer · ReScience C · Replication</description>
+    </item>
+    <item>
+      <title>Erratum</title>
+      <link>https://doi.org/10.18718/81781.39</link>
+      <guid isPermaLink="false">10.18718/81781.39</guid>
+      <pubDate>Sat, 09 Nov 2024 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>JCRE Editorial Team · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. A Replication Study of Epley &amp; Gilovich (Journal of Behavioral Decision Making, 2005; Psychological Science, 2006)</title>
+      <link>https://doi.org/10.18718/81781.38</link>
+      <guid isPermaLink="false">10.18718/81781.38</guid>
+      <pubDate>Wed, 09 Oct 2024 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Lukas Röseler, Hannah L. Bögler, Lisa Koßmann, Sabine M. Krueger, Sabrina L. C. Bickenbach, Ricarda Bühler, Jasmin Della Guardia, Lisa-Marie A. Köppel, Jarl Möhring, Susanne Ponader, Konstantin Roßmaier, Jessica Sing · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Omitted Variable Bias and Wartime Legacies. A Reply to Malesky and Nguyen (Journal of Comments and Replications in Economics, 2024)</title>
+      <link>https://doi.org/10.18718/81781.37</link>
+      <guid isPermaLink="false">10.18718/81781.37</guid>
+      <pubDate>Wed, 04 Sep 2024 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Joan Barceló · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Does Proactive Policing Really Increase Major Crime? A Replication Study of Sullivan and O’Keeffe (Nature Human Behaviour, 2017)</title>
+      <link>https://doi.org/10.18718/81781.36</link>
+      <guid isPermaLink="false">10.18718/81781.36</guid>
+      <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Aaron Chalfin, David Mitre-Becerril, Morgan C. Williams · Journal of Comments and Replications in Economics</description>
+    </item>
+  </channel>
+</rss>

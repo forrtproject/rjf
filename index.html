@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Replication Journal Federation</title>
     <link rel="icon" type="image/svg+xml" href="https://raw.githubusercontent.com/forrtproject/rjf/main/rjf_logo_6_circles.svg">
+    <link rel="alternate" type="application/rss+xml" title="RJF – New Publications" href="feed.xml">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     
     <style>
@@ -284,6 +285,118 @@
             font-size: 0.85rem;
             margin-bottom: 0.75rem;
             line-height: 1.5;
+        }
+
+        /* Publications */
+        .pub-controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .pub-filter {
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 0.35rem 0.8rem;
+            border-radius: 999px;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .pub-filter:hover {
+            background: var(--bg-secondary);
+        }
+
+        .pub-filter.active {
+            background: var(--accent-color);
+            border-color: var(--accent-color);
+            color: var(--bg-primary);
+        }
+
+        .pub-rss {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 0.5rem 1rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .pub-rss-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45rem;
+        }
+
+        .rss-icon {
+            width: 20px;
+            height: 20px;
+            flex-shrink: 0;
+        }
+
+        .pub-rss code {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 0.1rem 0.35rem;
+            color: var(--text-primary);
+            user-select: all;
+        }
+
+        .pub-search {
+            width: 100%;
+            max-width: 420px;
+            padding: 0.5rem 0.75rem;
+            margin-bottom: 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.9rem;
+        }
+
+        .pub-count {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+        }
+
+        .pub-list li {
+            padding: 0.9rem 0;
+            margin: 0;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .pub-list li::before {
+            content: none;
+        }
+
+        .pub-title {
+            font-family: 'Merriweather', serif;
+            font-size: 0.95rem;
+            line-height: 1.4;
+        }
+
+        .pub-authors,
+        .pub-meta {
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+        }
+
+        .pub-meta strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .pub-more {
+            margin-top: 1.25rem;
         }
 
         /* Table Styles */
@@ -621,6 +734,26 @@
             </div>
         </section>
 
+        <!-- PUBLICATIONS SECTION -->
+        <section class="grid-layout">
+            <div class="section-label">Publications</div>
+            <div class="section-content">
+                <p class="section-desc">All articles published in our member journals, updated daily. For JOPD, only Verification Reports are included.</p>
+                <div class="pub-rss">
+                    <a href="feed.xml" class="pub-rss-link" title="RSS feed of new publications">
+                        <svg class="rss-icon" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="#f26522"/><circle cx="6.5" cy="17.5" r="2" fill="#fff"/><path d="M4.5 10.5a9 9 0 0 1 9 9M4.5 5a14.5 14.5 0 0 1 14.5 14.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>
+                        Subscribe via RSS
+                    </a>
+                    <span>Add <code>https://forrt.org/rjf/feed.xml</code> to your feed reader to follow new publications.</span>
+                </div>
+                <div class="pub-controls" id="pub-filters"></div>
+                <input type="search" class="pub-search" id="pub-search" placeholder="Search titles and authors…" aria-label="Search publications">
+                <div class="pub-count" id="pub-count">Loading publications…</div>
+                <ul class="pub-list" id="pub-list"></ul>
+                <button class="carousel-btn pub-more" id="pub-more" onclick="showMorePublications()" hidden>Show more</button>
+            </div>
+        </section>
+
         <!-- GUIDANCE FOR AUTHORS SECTION -->
         <section class="grid-layout">
             <div class="section-label">Guidance for Authors</div>
@@ -801,6 +934,90 @@
         }
 
         renderSlides();
+
+        const PAGE_SIZE = 20;
+        const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        let publications = [];
+        let journalNames = {};
+        let selectedJournal = 'all';
+        let shownCount = PAGE_SIZE;
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function formatDate(date) {
+            const [year, month, day] = date.split('-');
+            if (!month) return year;
+            return `${day ? Number(day) + ' ' : ''}${MONTHS[Number(month) - 1]} ${year}`;
+        }
+
+        function formatAuthors(authors) {
+            return authors.length > 6 ? authors.slice(0, 6).join(', ') + ', et al.' : authors.join(', ');
+        }
+
+        function filteredPublications() {
+            const query = document.getElementById('pub-search').value.trim().toLowerCase();
+            return publications.filter(pub =>
+                (selectedJournal === 'all' || pub.journal === selectedJournal) &&
+                (!query || (pub.title + ' ' + pub.authors.join(' ')).toLowerCase().includes(query))
+            );
+        }
+
+        function renderFilters() {
+            const counts = {};
+            publications.forEach(pub => counts[pub.journal] = (counts[pub.journal] || 0) + 1);
+            const options = [['all', 'All journals', publications.length]]
+                .concat(Object.entries(journalNames).map(([key, name]) => [key, name, counts[key] || 0]));
+            document.getElementById('pub-filters').innerHTML = options.map(([key, name, count]) => `
+                <button class="pub-filter ${key === selectedJournal ? 'active' : ''}" onclick="selectJournal('${key}')">${escapeHtml(name)} (${count})</button>
+            `).join('');
+        }
+
+        function renderPublications() {
+            const matches = filteredPublications();
+            document.getElementById('pub-count').textContent =
+                `Showing ${Math.min(shownCount, matches.length)} of ${matches.length} publications`;
+            document.getElementById('pub-list').innerHTML = matches.slice(0, shownCount).map(pub => `
+                <li>
+                    <div class="pub-title"><a href="${escapeHtml(pub.url)}" target="_blank">${escapeHtml(pub.title)}</a></div>
+                    <div class="pub-authors">${escapeHtml(formatAuthors(pub.authors))}</div>
+                    <div class="pub-meta"><strong>${escapeHtml(journalNames[pub.journal])}</strong>${pub.type ? ' · ' + escapeHtml(pub.type) : ''} · ${formatDate(pub.date)}</div>
+                </li>
+            `).join('');
+            document.getElementById('pub-more').hidden = shownCount >= matches.length;
+        }
+
+        function selectJournal(key) {
+            selectedJournal = key;
+            shownCount = PAGE_SIZE;
+            renderFilters();
+            renderPublications();
+        }
+
+        function showMorePublications() {
+            shownCount += PAGE_SIZE;
+            renderPublications();
+        }
+
+        document.getElementById('pub-search').addEventListener('input', () => {
+            shownCount = PAGE_SIZE;
+            renderPublications();
+        });
+
+        fetch('publications.json')
+            .then(response => response.json())
+            .then(data => {
+                publications = data.publications;
+                journalNames = data.journals;
+                renderFilters();
+                renderPublications();
+            })
+            .catch(() => {
+                document.getElementById('pub-count').textContent = 'Publications could not be loaded.';
+            });
     </script>
 
 </body>
