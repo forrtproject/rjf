@@ -9,6 +9,28 @@
  },
  "publications": [
   {
+   "journal": "jcre",
+   "title": "Income and Inequality in the Aztec Empire. A Replication of Alfani and Carballo (Nature Human Behaviour, 2023)",
+   "authors": [
+    "Olle Hammar"
+   ],
+   "date": "2026-10-21",
+   "doi": "10.18718/81781.65",
+   "url": "https://doi.org/10.18718/81781.65",
+   "type": null
+  },
+  {
+   "journal": "jcre",
+   "title": "Income and Inequality in the Aztec Empire on the Eve of the Spanish Conquest. A Comment on Olle Hammar (Journal of Comments and Replications in Economics, 2026)",
+   "authors": [
+    "Guido Alfani"
+   ],
+   "date": "2026-10-21",
+   "doi": "10.18718/81781.66",
+   "url": "https://doi.org/10.18718/81781.66",
+   "type": null
+  },
+  {
    "journal": "r2",
    "title": "Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)",
    "authors": [

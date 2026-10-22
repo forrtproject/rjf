@@ -6,7 +6,23 @@
     <description>New articles from the member journals of the Replication Journal Federation.</description>
     <language>en</language>
     <atom:link href="https://forrt.org/rjf/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 06 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Income and Inequality in the Aztec Empire. A Replication of Alfani and Carballo (Nature Human Behaviour, 2023)</title>
+      <link>https://doi.org/10.18718/81781.65</link>
+      <guid isPermaLink="false">10.18718/81781.65</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Olle Hammar · Journal of Comments and Replications in Economics</description>
+    </item>
+    <item>
+      <title>Income and Inequality in the Aztec Empire on the Eve of the Spanish Conquest. A Comment on Olle Hammar (Journal of Comments and Replications in Economics, 2026)</title>
+      <link>https://doi.org/10.18718/81781.66</link>
+      <guid isPermaLink="false">10.18718/81781.66</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Comments and Replications in Economics</category>
+      <description>Guido Alfani · Journal of Comments and Replications in Economics</description>
+    </item>
     <item>
       <title>Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)</title>
       <link>https://doi.org/10.17879/replicationresearch-2026-10085</link>
@@ -390,22 +406,6 @@
       <pubDate>Wed, 09 Oct 2024 12:00:00 +0000</pubDate>
       <category>Journal of Comments and Replications in Economics</category>
       <description>Lukas Röseler, Hannah L. Bögler, Lisa Koßmann, Sabine M. Krueger, Sabrina L. C. Bickenbach, Ricarda Bühler, Jasmin Della Guardia, Lisa-Marie A. Köppel, Jarl Möhring, Susanne Ponader, Konstantin Roßmaier, Jessica Sing · Journal of Comments and Replications in Economics</description>
-    </item>
-    <item>
-      <title>Omitted Variable Bias and Wartime Legacies. A Reply to Malesky and Nguyen (Journal of Comments and Replications in Economics, 2024)</title>
-      <link>https://doi.org/10.18718/81781.37</link>
-      <guid isPermaLink="false">10.18718/81781.37</guid>
-      <pubDate>Wed, 04 Sep 2024 12:00:00 +0000</pubDate>
-      <category>Journal of Comments and Replications in Economics</category>
-      <description>Joan Barceló · Journal of Comments and Replications in Economics</description>
-    </item>
-    <item>
-      <title>Does Proactive Policing Really Increase Major Crime? A Replication Study of Sullivan and O’Keeffe (Nature Human Behaviour, 2017)</title>
-      <link>https://doi.org/10.18718/81781.36</link>
-      <guid isPermaLink="false">10.18718/81781.36</guid>
-      <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
-      <category>Journal of Comments and Replications in Economics</category>
-      <description>Aaron Chalfin, David Mitre-Becerril, Morgan C. Williams · Journal of Comments and Replications in Economics</description>
     </item>
   </channel>
 </rss>
