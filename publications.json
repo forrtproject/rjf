@@ -9,6 +9,17 @@
  },
  "publications": [
   {
+   "journal": "jrr",
+   "title": "Is GenAI helpful for writing? A re-analysis using robust Bayesian meta-analysis (RoBMA)",
+   "authors": [
+    "Shawn Hemelstrand"
+   ],
+   "date": "2026-10-26",
+   "doi": "10.21468/jrobustrep.7-rr1",
+   "url": "https://doi.org/10.21468/jrobustrep.7-rr1",
+   "type": null
+  },
+  {
    "journal": "jcre",
    "title": "Income and Inequality in the Aztec Empire. A Replication of Alfani and Carballo (Nature Human Behaviour, 2023)",
    "authors": [

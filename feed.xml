@@ -6,7 +6,15 @@
     <description>New articles from the member journals of the Replication Journal Federation.</description>
     <language>en</language>
     <atom:link href="https://forrt.org/rjf/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Is GenAI helpful for writing? A re-analysis using robust Bayesian meta-analysis (RoBMA)</title>
+      <link>https://doi.org/10.21468/jrobustrep.7-rr1</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.7-rr1</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>Shawn Hemelstrand · Journal of Robustness Reports</description>
+    </item>
     <item>
       <title>Income and Inequality in the Aztec Empire. A Replication of Alfani and Carballo (Nature Human Behaviour, 2023)</title>
       <link>https://doi.org/10.18718/81781.65</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 09 Nov 2024 12:00:00 +0000</pubDate>
       <category>Journal of Comments and Replications in Economics</category>
       <description>JCRE Editorial Team · Journal of Comments and Replications in Economics</description>
-    </item>
-    <item>
-      <title>Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. A Replication Study of Epley &amp; Gilovich (Journal of Behavioral Decision Making, 2005; Psychological Science, 2006)</title>
-      <link>https://doi.org/10.18718/81781.38</link>
-      <guid isPermaLink="false">10.18718/81781.38</guid>
-      <pubDate>Wed, 09 Oct 2024 12:00:00 +0000</pubDate>
-      <category>Journal of Comments and Replications in Economics</category>
-      <description>Lukas Röseler, Hannah L. Bögler, Lisa Koßmann, Sabine M. Krueger, Sabrina L. C. Bickenbach, Ricarda Bühler, Jasmin Della Guardia, Lisa-Marie A. Köppel, Jarl Möhring, Susanne Ponader, Konstantin Roßmaier, Jessica Sing · Journal of Comments and Replications in Economics</description>
     </item>
   </channel>
 </rss>
