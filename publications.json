@@ -553,6 +553,22 @@
    "type": null
   },
   {
+   "journal": "jrr",
+   "title": "Introducing the Journal of Robustness Reports",
+   "authors": [
+    "František Bartoš",
+    "Alexandra Sarafoglou",
+    "Balazs Aczel",
+    "Suzanne Hoogeveen",
+    "Chris Chambers",
+    "Eric-Jan Wagenmakers"
+   ],
+   "date": "2025-04-16",
+   "doi": "10.21468/jrobustrep.0-editorial",
+   "url": "https://doi.org/10.21468/jrobustrep.0-editorial",
+   "type": null
+  },
+  {
    "journal": "rescience-c",
    "title": "[Re] The Discriminative Kalman Filter for Bayesian Filtering with Nonlinear and Non-Gaussian Observation Models",
    "authors": [

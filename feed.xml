@@ -360,6 +360,14 @@
       <description>Giulio Zanella · Journal of Comments and Replications in Economics</description>
     </item>
     <item>
+      <title>Introducing the Journal of Robustness Reports</title>
+      <link>https://doi.org/10.21468/jrobustrep.0-editorial</link>
+      <guid isPermaLink="false">10.21468/jrobustrep.0-editorial</guid>
+      <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+      <category>Journal of Robustness Reports</category>
+      <description>František Bartoš, Alexandra Sarafoglou, Balazs Aczel, Suzanne Hoogeveen, Chris Chambers, Eric-Jan Wagenmakers · Journal of Robustness Reports</description>
+    </item>
+    <item>
       <title>[Re] The Discriminative Kalman Filter for Bayesian Filtering with Nonlinear and Non-Gaussian Observation Models</title>
       <link>https://doi.org/10.5281/zenodo.15172014</link>
       <guid isPermaLink="false">10.5281/zenodo.15172014</guid>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
       <category>ReScience C</category>
       <description>Sven Dominik Wagner, Yann Philipp Kurowski, Leonhard Moritz Holländer, Tobias Uelwer · ReScience C · Replication</description>
-    </item>
-    <item>
-      <title>Erratum</title>
-      <link>https://doi.org/10.18718/81781.39</link>
-      <guid isPermaLink="false">10.18718/81781.39</guid>
-      <pubDate>Sat, 09 Nov 2024 12:00:00 +0000</pubDate>
-      <category>Journal of Comments and Replications in Economics</category>
-      <description>JCRE Editorial Team · Journal of Comments and Replications in Economics</description>
     </item>
   </channel>
 </rss>
