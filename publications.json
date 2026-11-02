@@ -677,6 +677,19 @@
    "type": null
   },
   {
+   "journal": "rescience-c",
+   "title": "[$sim$Re] Exploration in Model-based Reinforcement Learning by Empirically Estimating Learning Progress",
+   "authors": [
+    "Augustin Chartouny",
+    "Jean-Pierre Nadal",
+    "Mehdi Khamassi"
+   ],
+   "date": "2024-09",
+   "doi": "10.5281/zenodo.13627804",
+   "url": "https://doi.org/10.5281/zenodo.13627804",
+   "type": "Replication"
+  },
+  {
    "journal": "jcre",
    "title": "Does Proactive Policing Really Increase Major Crime? A Replication Study of Sullivan and O’Keeffe (Nature Human Behaviour, 2017)",
    "authors": [
